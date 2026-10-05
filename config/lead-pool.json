@@ -3171,5 +3171,145 @@
   "urls": [
    "https://bombaybakery.co.nz/"
   ]
+ },
+ {
+  "name": "Auction Rooms",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "cafe",
+  "urls": [
+   "https://auctionrooms.com.au/"
+  ]
+ },
+ {
+  "name": "Wide Open Road Coffee Roasters",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://wideopenroadroasters.com.au/"
+  ]
+ },
+ {
+  "name": "Reuben Hills",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://reubenhills.com/"
+  ]
+ },
+ {
+  "name": "Sample Coffee Co",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://samplecoffee.com.au/"
+  ]
+ },
+ {
+  "name": "Room 10 Bondi",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://room10bondi.com/"
+  ]
+ },
+ {
+  "name": "Brother Bird",
+  "city": "Brisbane, QLD",
+  "cc": "AU",
+  "region": "au",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://brotherbird.com.au/"
+  ]
+ },
+ {
+  "name": "John Mills Himself",
+  "city": "Brisbane, QLD",
+  "cc": "AU",
+  "region": "au",
+  "niche": "cafe",
+  "urls": [
+   "https://jmh.com.au/"
+  ]
+ },
+ {
+  "name": "Pigeon Hole Cafe",
+  "city": "Hobart, TAS",
+  "cc": "AU",
+  "region": "au",
+  "niche": "cafe",
+  "urls": [
+   "https://pigeonholecafe.com.au/"
+  ]
+ },
+ {
+  "name": "Dandy Lane",
+  "city": "Adelaide, SA",
+  "cc": "AU",
+  "region": "au",
+  "niche": "cafe",
+  "urls": [
+   "https://dandylane.com.au/"
+  ]
+ },
+ {
+  "name": "Barrio Collective",
+  "city": "Canberra, ACT",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://barriocollective.coffee/"
+  ]
+ },
+ {
+  "name": "BSKT Cafe",
+  "city": "Gold Coast, QLD",
+  "cc": "AU",
+  "region": "au",
+  "niche": "cafe",
+  "urls": [
+   "https://bskt.com.au/"
+  ]
+ },
+ {
+  "name": "Cow and Moon Gelato",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://cowandmoon.com.au/"
+  ]
+ },
+ {
+  "name": "Koi Dessert Bar",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://koidessertbar.com.au/"
+  ]
+ },
+ {
+  "name": "All Are Welcome Bakery",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "bakery",
+  "urls": [
+   "https://allarewelcomebakery.com/"
+  ]
  }
 ]
