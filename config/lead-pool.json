@@ -3001,5 +3001,175 @@
    "https://clarkesdining.co.za/",
    "https://clarkesdining.co.za/contact"
   ]
+ },
+ {
+  "name": "Sarnies",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "cafe",
+  "urls": [
+   "https://sarnies.sg/"
+  ]
+ },
+ {
+  "name": "The Coconut Club",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://thecoconutclub.sg/"
+  ]
+ },
+ {
+  "name": "Lola's Cafe",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "cafe",
+  "urls": [
+   "https://lolascafe.sg/"
+  ]
+ },
+ {
+  "name": "Sun Ray Cafe",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "cafe",
+  "urls": [
+   "https://sunraycafe.sg/"
+  ]
+ },
+ {
+  "name": "Fresh Fruits Lab",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://freshfruitslab.com/"
+  ]
+ },
+ {
+  "name": "Kombi Rocks",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://kombirocks.com/"
+  ]
+ },
+ {
+  "name": "Tolid's",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://tolidssg.com/"
+  ]
+ },
+ {
+  "name": "Roast BKK",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://roastbkk.co/"
+  ]
+ },
+ {
+  "name": "Casa Azul",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://casaazul.co.nz/"
+  ]
+ },
+ {
+  "name": "Lamason Coffee Brewing Bar",
+  "city": "Wellington",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://lamason.co.nz/"
+  ]
+ },
+ {
+  "name": "Memphis Belle Coffee Bar",
+  "city": "Wellington",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://memphisbellecoffee.com/"
+  ]
+ },
+ {
+  "name": "Ritual Coffee Wellington",
+  "city": "Wellington",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://ritualcoffee.co.nz/"
+  ]
+ },
+ {
+  "name": "Seoulful Cake",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://seoulfulcake.co.nz/"
+  ]
+ },
+ {
+  "name": "Cheeky Cookies Grey Lynn",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://cheekycookies.co.nz/"
+  ]
+ },
+ {
+  "name": "Shaky Isles Coffee",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://shakyislescoffee.com/"
+  ]
+ },
+ {
+  "name": "Tart Bakery",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://tartbakery.co.nz/"
+  ]
+ },
+ {
+  "name": "Bombay Bakery",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://bombaybakery.co.nz/"
+  ]
  }
 ]
