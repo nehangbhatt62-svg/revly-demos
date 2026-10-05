@@ -1,0 +1,3005 @@
+[
+ {
+  "name": "Birch Coffee",
+  "city": "New York, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.birchcoffee.com/",
+   "https://www.birchcoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Partners Coffee",
+  "city": "Brooklyn, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.partnerscoffee.com/",
+   "https://www.partnerscoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Variety Coffee Roasters",
+  "city": "Brooklyn, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://varietycoffeeroasters.com/",
+   "https://varietycoffeeroasters.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Supermoon Bakehouse",
+  "city": "New York, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.supermoon.nyc/",
+   "https://supermoon.nyc/contact"
+  ]
+ },
+ {
+  "name": "Ovenly",
+  "city": "Brooklyn, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.ovenly.com/",
+   "https://www.ovenly.com/pages/contact-us"
+  ]
+ },
+ {
+  "name": "Cafe Grumpy",
+  "city": "New York, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.cafegrumpy.com/",
+   "https://www.cafegrumpy.com/contact"
+  ]
+ },
+ {
+  "name": "MUD Coffee",
+  "city": "New York, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.mudspot.com/",
+   "https://mudspot.com/contact"
+  ]
+ },
+ {
+  "name": "Dinosaur Coffee",
+  "city": "Los Angeles, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.dinocoffee.com/",
+   "https://dinocoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Clark Street Bread",
+  "city": "Los Angeles, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.clarkst.com/",
+   "https://clarkst.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Endorffeine",
+  "city": "Los Angeles, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://endorffeine.com/",
+   "https://endorffeine.com/contact"
+  ]
+ },
+ {
+  "name": "Menotti's Coffee Shop",
+  "city": "Venice, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://menottiscoffee.com/",
+   "https://menottiscoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Goodboybob Coffee Roasters",
+  "city": "Los Angeles, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://goodboybob.com/",
+   "https://goodboybob.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Cafe de Leche",
+  "city": "Los Angeles, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://cafedeleche.com/",
+   "https://cafedeleche.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Metropolis Coffee",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.metropoliscoffee.com/",
+   "https://www.metropoliscoffee.com/pages/contact-us"
+  ]
+ },
+ {
+  "name": "Gaslight Coffee Roasters",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://gaslightcoffeeroasters.com/",
+   "https://gaslightcoffeeroasters.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Asado Coffee",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://asadocoffee.com/",
+   "https://asadocoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Dark Matter Coffee",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://darkmattercoffee.com/",
+   "https://darkmattercoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "The Worm Coffee & Bookstore",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://thewormcoffee.com/",
+   "https://thewormcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Ritual Coffee Roasters",
+  "city": "San Francisco, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://ritualroasters.com/",
+   "https://ritualroasters.com/pages/contact-us"
+  ]
+ },
+ {
+  "name": "Devil's Teeth Baking Co.",
+  "city": "San Francisco, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://devilssteeth.com/",
+   "https://devilssteeth.com/contact-us"
+  ]
+ },
+ {
+  "name": "Neighbor Bakehouse",
+  "city": "San Francisco, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://neighborbakehouse.com/",
+   "https://neighborbakehouse.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Andytown Coffee Roasters",
+  "city": "San Francisco, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.andytown.com/",
+   "https://andytown.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Saint Frank Coffee",
+  "city": "San Francisco, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://saintfrankcoffee.com/",
+   "https://saintfrankcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Arsicault Bakery",
+  "city": "San Francisco, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://arsicaultbakery.com/",
+   "https://arsicaultbakery.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Mr. Espresso",
+  "city": "Oakland, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.mrespresso.com/",
+   "https://mrespresso.com/contact"
+  ]
+ },
+ {
+  "name": "Sightglass Coffee",
+  "city": "San Francisco, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://sightglasscoffee.com/",
+   "https://sightglasscoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Victrola Coffee Roasters",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://victrolacoffee.com/",
+   "https://victrolacoffee.com/pages/connect"
+  ]
+ },
+ {
+  "name": "Herkimer Coffee",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://herkimercoffee.com/",
+   "https://herkimercoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Fuel Coffee",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://fuelecoffeeco.com/",
+   "https://fuelecoffeeco.com/pages/contact"
+  ]
+ },
+ {
+  "name": "General Porpoise",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.generalporpoise.com/",
+   "https://generalporpoise.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Honore Bakery",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://honorebakery.com/",
+   "https://honorebakery.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Ladro Coffee Roasting",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://ladrocoffee.com/",
+   "https://ladrocoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Zoka Coffee",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://zokacoffee.com/",
+   "https://zokacoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Gracenote Coffee",
+  "city": "Boston, MA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://gracenotecoffee.com/",
+   "https://gracenotecoffee.com/contact"
+  ]
+ },
+ {
+  "name": "George Howell Coffee",
+  "city": "Boston, MA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.georgehowellcoffee.com/",
+   "https://georgehowellcoffee.com/contact-us"
+  ]
+ },
+ {
+  "name": "Flour Bakery + Cafe",
+  "city": "Boston, MA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.flourbakery.com/",
+   "https://www.flourbakery.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Pavement Coffeehouse",
+  "city": "Boston, MA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://pavementcoffeehouse.com/",
+   "https://pavementcoffeehouse.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Broadsheet Coffee Roasters",
+  "city": "Cambridge, MA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://broadsheetcoffee.com/",
+   "https://broadsheetcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Thinking Cup",
+  "city": "Boston, MA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://thinkingcup.com/",
+   "https://thinkingcup.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Vice City Bean",
+  "city": "Miami, FL",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://vicecitybean.com/",
+   "https://vicecitybean.com/pages/contact"
+  ]
+ },
+ {
+  "name": "All Day",
+  "city": "Miami, FL",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.allday.miami/",
+   "https://allday.miami/pages/contact"
+  ]
+ },
+ {
+  "name": "Zak the Baker",
+  "city": "Miami, FL",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.zakthebaker.com/",
+   "https://zakthebaker.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Cuvee Coffee",
+  "city": "Austin, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.cuveecoffee.com/",
+   "https://cuveecoffee.com/pages/contact-us"
+  ]
+ },
+ {
+  "name": "Caffe Medici",
+  "city": "Austin, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://caffemedici.com/",
+   "https://caffemedici.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Radio Coffee & Beer",
+  "city": "Austin, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://radiocoffeeaustin.com/",
+   "https://radiocoffeeaustin.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Sa-Ten Coffee & Eats",
+  "city": "Austin, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://sa-ten.com/",
+   "https://sa-ten.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Epoch Coffee",
+  "city": "Austin, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://epochcoffee.com/",
+   "https://epochcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Patika Coffee",
+  "city": "Austin, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.patikacoffee.com/",
+   "https://patikacoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Cenote Coffee",
+  "city": "Austin, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.cenotecoffee.com/",
+   "https://cenotecoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Summer Moon Coffee",
+  "city": "Austin, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://summermooncoffee.com/",
+   "https://summermooncoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Sweet Bloom Coffee Roasters",
+  "city": "Lakewood, CO",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.sweetbloomcoffee.com/",
+   "https://sweetbloomcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Boxcar Coffee Roasters",
+  "city": "Boulder, CO",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://boxcarcoffee.com/",
+   "https://boxcarcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Amethyst Coffee Company",
+  "city": "Denver, CO",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://amethystcoffee.com/",
+   "https://amethystcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Purple Door Coffee",
+  "city": "Denver, CO",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://purpledoorcoffee.com/",
+   "https://purpledoorcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Case Study Coffee Roasters",
+  "city": "Portland, OR",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://casestudycoffee.com/",
+   "https://casestudycoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Courier Coffee Roasters",
+  "city": "Portland, OR",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://couriercoffee.com/",
+   "https://couriercoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Water Avenue Coffee",
+  "city": "Portland, OR",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://wateravecoffee.com/",
+   "https://wateravecoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Deadstock Coffee",
+  "city": "Portland, OR",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.deadstockcoffee.com/",
+   "https://deadstockcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Oblique Coffee Roasters",
+  "city": "Portland, OR",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://obliquecoffeeroasters.com/",
+   "https://obliquecoffeeroasters.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Crema Coffee",
+  "city": "Nashville, TN",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://crema-coffee.com/",
+   "https://crema-coffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Eighth and Roast",
+  "city": "Nashville, TN",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.eighthandroast.com/",
+   "https://eighthandroast.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Bongo Java",
+  "city": "Nashville, TN",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://bongojava.com/",
+   "https://bongojava.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Dose Coffee & Tea",
+  "city": "Nashville, TN",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://dosecoffee.com/",
+   "https://dosecoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Rival Bros Coffee Roasters",
+  "city": "Philadelphia, PA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://rivalbrothers.com/",
+   "https://rivalbrothers.com/pages/contact-us"
+  ]
+ },
+ {
+  "name": "One Shot Coffee",
+  "city": "Philadelphia, PA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://oneshotcoffee.com/",
+   "https://oneshotcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Menagerie Coffee",
+  "city": "Philadelphia, PA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://menageriecoffee.com/",
+   "https://menageriecoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Peregrine Espresso",
+  "city": "Washington, DC",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.peregrineespresso.com/",
+   "https://peregrineespresso.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Compass Coffee",
+  "city": "Washington, DC",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://compasscoffee.com/",
+   "https://compasscoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Qualia Coffee",
+  "city": "Washington, DC",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.qualiacoffee.com/",
+   "https://qualiacoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Wydown Coffee Bar",
+  "city": "Washington, DC",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.thewydown.com/",
+   "https://thewydown.com/pages/contact-us"
+  ]
+ },
+ {
+  "name": "Baked & Wired",
+  "city": "Washington, DC",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.bakedandwired.com/",
+   "https://bakedandwired.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Houndstooth Coffee",
+  "city": "Dallas, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.houndstoothcoffee.com/",
+   "https://houndstoothcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Noble Rey Coffee",
+  "city": "Dallas, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.noblerey.com/",
+   "https://noblerey.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Merit Coffee Co",
+  "city": "Dallas, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://meritcoffeeco.com/",
+   "https://meritcoffeeco.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Murray Street Coffee Shop",
+  "city": "Dallas, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.murraystreetcoffee.com/",
+   "https://murraystreetcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Common Tune Coffee",
+  "city": "Houston, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://commontune.com/",
+   "https://commontune.com/pages/contact"
+  ]
+ },
+ {
+  "name": "A 2nd Cup Coffee",
+  "city": "Houston, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://a2ndcup.com/",
+   "https://a2ndcup.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Ampersand Coffee",
+  "city": "Houston, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://ampersandcoffee.com/",
+   "https://ampersandcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Retrospect Coffee",
+  "city": "Houston, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://retrospectcoffee.com/",
+   "https://retrospectcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Blacksmith Coffee",
+  "city": "Houston, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.blacksmithhouston.com/",
+   "https://blacksmithhouston.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Press Coffee Roasters",
+  "city": "Phoenix, AZ",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.presscoffeeaz.com/",
+   "https://presscoffeeaz.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Peixoto Coffee Roasters",
+  "city": "Chandler, AZ",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.peixotocoffee.com/",
+   "https://peixotocoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Futuro Coffee",
+  "city": "Phoenix, AZ",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://futurocoffee.com/",
+   "https://futurocoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "East Pole Coffee Co",
+  "city": "Atlanta, GA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.eastpolecoffee.com/",
+   "https://eastpolecoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Spiller Park Coffee",
+  "city": "Atlanta, GA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.spillerpark.com/",
+   "https://spillerpark.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Chrome Yellow Trading Co",
+  "city": "Atlanta, GA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://chromeyellowtrading.com/",
+   "https://chromeyellowtrading.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Rev Coffee Roasters",
+  "city": "Atlanta, GA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://revcoffee.com/",
+   "https://revcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Condesa Coffee Roasters",
+  "city": "Atlanta, GA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://condesacoffee.com/",
+   "https://condesacoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "De Mello Palheta Coffee",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://demellopalheta.com/",
+   "https://demellopalheta.com/pages/contact-us"
+  ]
+ },
+ {
+  "name": "Dineen Coffee Co",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://dineencoffee.com/",
+   "https://dineencoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Nemesis Coffee",
+  "city": "Vancouver, BC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://nemesis.coffee/",
+   "https://nemesis.coffee/pages/contact"
+  ]
+ },
+ {
+  "name": "Revolver Coffee",
+  "city": "Vancouver, BC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://revolvernw.com/",
+   "https://revolvernw.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Phil & Sebastian Coffee Roasters",
+  "city": "Calgary, AB",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://philsebastian.com/",
+   "https://philsebastian.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Rosso Coffee Roasters",
+  "city": "Calgary, AB",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://rossocoffee.ca/",
+   "https://rossocoffee.ca/pages/contact"
+  ]
+ },
+ {
+  "name": "Nylon Coffee Roasters",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://nyloncoffee.sg/",
+   "https://nyloncoffee.sg/pages/contact"
+  ]
+ },
+ {
+  "name": "Common Man Coffee Roasters",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://commonmancoffee.sg/",
+   "https://commonmancoffee.sg/pages/contact"
+  ]
+ },
+ {
+  "name": "Liberty Coffee",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.libertycoffee.sg/",
+   "https://libertycoffee.sg/pages/contact"
+  ]
+ },
+ {
+  "name": "Homeground Coffee Roasters",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.homegroundcoffeeroasters.com/",
+   "https://homegroundcoffeeroasters.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Apartment Coffee",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.apartmentcoffee.sg/",
+   "https://apartmentcoffee.sg/pages/contact"
+  ]
+ },
+ {
+  "name": "Toby's Estate Singapore",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://tobysestate.sg/",
+   "https://tobysestate.sg/pages/contact"
+  ]
+ },
+ {
+  "name": "Roots BKK",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://rootsbkk.com/",
+   "https://rootsbkk.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Hands and Heart",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://handsandheartbkk.com/",
+   "https://handsandheartbkk.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Pacamara Coffee Roasters",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://pacamarabkk.com/",
+   "https://pacamarabkk.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Seven Fortunes Coffee",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://sevenfortunes.com/",
+   "https://sevenfortunes.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Nightjar Coffee Co",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://nightjar.coffee/",
+   "https://nightjar.coffee/pages/contact"
+  ]
+ },
+ {
+  "name": "Flight Coffee Co",
+  "city": "Wellington",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://flightcoffee.co.nz/",
+   "https://flightcoffee.co.nz/pages/contact"
+  ]
+ },
+ {
+  "name": "People's Coffee",
+  "city": "Wellington",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://peoplescoffee.co.nz/",
+   "https://peoplescoffee.co.nz/pages/contact"
+  ]
+ },
+ {
+  "name": "Origin Coffee Roasters",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.originroasters.co.za/",
+   "https://originroasters.co.za/pages/contact"
+  ]
+ },
+ {
+  "name": "Father Coffee",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://fathercoffee.co.za/",
+   "https://fathercoffee.co.za/pages/contact"
+  ]
+ },
+ {
+  "name": "Seven Seeds",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.sevenseeds.com.au/",
+   "https://sevenseeds.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "St Ali Coffee Roasters",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://stali.com.au/",
+   "https://stali.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "Industry Beans",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://industrybeans.com/",
+   "https://industrybeans.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Dukes Coffee Roasters",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://dukescoffee.com.au/",
+   "https://dukescoffee.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "Monk Bodhi Dharma",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://monkbodhidharma.com/",
+   "https://monkbodhidharma.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Small Batch Roasting Co",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://smallbatchroasting.com.au/",
+   "https://smallbatchroasting.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "Mecca Coffee",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://meccacoffee.com.au/",
+   "https://meccacoffee.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "Single O",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.singleo.com.au/",
+   "https://singleo.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "Black Star Pastry",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "bakery",
+  "urls": [
+   "https://blackstarpastry.com/",
+   "https://blackstarpastry.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Iggy's Bread",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "bakery",
+  "urls": [
+   "https://iggysbread.com.au/",
+   "https://iggysbread.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "Sonoma Bakery",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "bakery",
+  "urls": [
+   "https://sonomabakery.com.au/",
+   "https://sonomabakery.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "Lune Croissanterie",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "bakery",
+  "urls": [
+   "https://lunecroissanterie.com/",
+   "https://lunecroissanterie.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Five Senses Coffee",
+  "city": "Perth, WA",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://fivesensescoffee.com.au/",
+   "https://fivesensescoffee.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "Dandelion & Driftwood",
+  "city": "Brisbane, QLD",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://dandelionanddriftwood.com/",
+   "https://dandelionanddriftwood.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Villino Coffee",
+  "city": "Hobart, TAS",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://villinocoffee.com/",
+   "https://villinocoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Jacobs Pickles",
+  "city": "New York, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.jacobspickles.com/",
+   "https://jacobspickles.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Speedy Romeo",
+  "city": "Brooklyn, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.speedyromeo.com/",
+   "https://speedyromeo.com/contact"
+  ]
+ },
+ {
+  "name": "Rucola",
+  "city": "Brooklyn, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.rucolabrooklyn.com/",
+   "https://rucolabrooklyn.com/contact"
+  ]
+ },
+ {
+  "name": "Five Leaves",
+  "city": "Brooklyn, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://fiveleavesnyc.com/",
+   "https://fiveleavesnyc.com/contact"
+  ]
+ },
+ {
+  "name": "Big Jones",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://bigjoneschicago.com/",
+   "https://bigjoneschicago.com/contact"
+  ]
+ },
+ {
+  "name": "Pequod's Pizza",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.pequodspizza.com/",
+   "https://pequodspizza.com/contact"
+  ]
+ },
+ {
+  "name": "Republique",
+  "city": "Los Angeles, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.republiquela.com/",
+   "https://republiquela.com/contact"
+  ]
+ },
+ {
+  "name": "Sonoratown",
+  "city": "Los Angeles, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.sonoratown.com/",
+   "https://sonoratown.com/contact"
+  ]
+ },
+ {
+  "name": "Gjusta",
+  "city": "Venice, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.gjusta.com/",
+   "https://gjusta.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Zuni Cafe",
+  "city": "San Francisco, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.zunicafe.com/",
+   "https://zunicafe.com/contact"
+  ]
+ },
+ {
+  "name": "Nopa",
+  "city": "San Francisco, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.nopasf.com/",
+   "https://nopasf.com/contact"
+  ]
+ },
+ {
+  "name": "Outerlands",
+  "city": "San Francisco, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.outerlandssf.com/",
+   "https://outerlandssf.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Canon",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.canonseattle.com/",
+   "https://canonseattle.com/contact"
+  ]
+ },
+ {
+  "name": "Manolin",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.manolinrestaurant.com/",
+   "https://manolinrestaurant.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Myers + Chang",
+  "city": "Boston, MA",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.myersandchang.com/",
+   "https://myersandchang.com/contact"
+  ]
+ },
+ {
+  "name": "Sarma",
+  "city": "Somerville, MA",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.sarma-boston.com/",
+   "https://sarma-boston.com/contact"
+  ]
+ },
+ {
+  "name": "Michael's Genuine Food & Drink",
+  "city": "Miami, FL",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.michaelsgenuine.com/",
+   "https://michaelsgenuine.com/contact"
+  ]
+ },
+ {
+  "name": "Blue Collar",
+  "city": "Miami, FL",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.bluecollarmiami.com/",
+   "https://bluecollarmiami.com/contact"
+  ]
+ },
+ {
+  "name": "Nixta Taqueria",
+  "city": "Austin, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.nixtataqueria.com/",
+   "https://nixtataqueria.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Ramen Tatsu-ya",
+  "city": "Austin, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.ramen-tatsuya.com/",
+   "https://ramen-tatsuya.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Work & Class",
+  "city": "Denver, CO",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.workandclassdenver.com/",
+   "https://workandclassdenver.com/contact"
+  ]
+ },
+ {
+  "name": "Apizza Scholls",
+  "city": "Portland, OR",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.apizzasholls.com/",
+   "https://apizzasholls.com/contact"
+  ]
+ },
+ {
+  "name": "Party Fowl",
+  "city": "Nashville, TN",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.partyfowl.com/",
+   "https://partyfowl.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Suraya",
+  "city": "Philadelphia, PA",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.surayaphilly.com/",
+   "https://surayaphilly.com/contact"
+  ]
+ },
+ {
+  "name": "Pizzeria Beddia",
+  "city": "Philadelphia, PA",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.beddiapizza.com/",
+   "https://beddiapizza.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Tail Up Goat",
+  "city": "Washington, DC",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.tailupgoat.com/",
+   "https://tailupgoat.com/contact"
+  ]
+ },
+ {
+  "name": "Komali",
+  "city": "Dallas, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.komalidallas.com/",
+   "https://komalidallas.com/contact"
+  ]
+ },
+ {
+  "name": "The Pit Room",
+  "city": "Houston, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.pitroomhtx.com/",
+   "https://pitroomhtx.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Xochi",
+  "city": "Houston, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.xochihouston.com/",
+   "https://xochihouston.com/contact"
+  ]
+ },
+ {
+  "name": "Pizzeria Bianco",
+  "city": "Phoenix, AZ",
+  "cc": "US",
+  "region": "us",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.pizzeriabianco.com/",
+   "https://pizzeriabianco.com/contact"
+  ]
+ },
+ {
+  "name": "Big Gay Ice Cream",
+  "city": "New York, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://biggayicecream.com/",
+   "https://biggayicecream.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Morgenstern's Finest Ice Cream",
+  "city": "New York, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.morgensternsnyc.com/",
+   "https://morgensternsnyc.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Dominique Ansel Bakery",
+  "city": "New York, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://www.dominiqueansel.com/",
+   "https://dominiqueansel.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Levain Bakery",
+  "city": "New York, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.levainbakery.com/",
+   "https://levainbakery.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Donut Friend",
+  "city": "Los Angeles, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://www.donutfriend.com/",
+   "https://donutfriend.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Wanderlust Creamery",
+  "city": "Los Angeles, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.wanderlustcreamery.com/",
+   "https://wanderlustcreamery.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Porto's Bakery",
+  "city": "Glendale, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.portosbakery.com/",
+   "https://portosbakery.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Doughnut Vault",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://www.doughnutvault.com/",
+   "https://doughnutvault.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Do-Rite Donuts",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://doritedonuts.com/",
+   "https://doritedonuts.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Mr. Holmes Bakehouse",
+  "city": "San Francisco, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.mrholmesbakehouse.com/",
+   "https://mrholmesbakehouse.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Molly Moon's Homemade Ice Cream",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://mollymoon.com/",
+   "https://mollymoon.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Hello Robin",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://www.hellorobincookies.com/",
+   "https://hellorobincookies.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Toscanini's Ice Cream",
+  "city": "Cambridge, MA",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.toscaninis.com/",
+   "https://toscaninis.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Union Square Donuts",
+  "city": "Boston, MA",
+  "cc": "US",
+  "region": "us",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://www.unionsquaredonuts.com/",
+   "https://unionsquaredonuts.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Azucar Ice Cream",
+  "city": "Miami, FL",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.azucaricecream.com/",
+   "https://azucaricecream.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Fireman Derek's Pies",
+  "city": "Miami, FL",
+  "cc": "US",
+  "region": "us",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://www.firemandereks.com/",
+   "https://firemandereks.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Amy's Ice Creams",
+  "city": "Austin, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.amysicecreams.com/",
+   "https://amysicecreams.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Little Man Ice Cream",
+  "city": "Denver, CO",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://littlemanicecream.com/",
+   "https://littlemanicecream.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Sweet Cow Ice Cream",
+  "city": "Boulder, CO",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://sweetcowicecream.com/",
+   "https://sweetcowicecream.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Fifty Licks Ice Cream",
+  "city": "Portland, OR",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://fiftylicks.com/",
+   "https://fiftylicks.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Ruby Jewel Ice Cream",
+  "city": "Portland, OR",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.rubyjewel.net/",
+   "https://rubyjewel.net/pages/contact"
+  ]
+ },
+ {
+  "name": "Franklin Fountain",
+  "city": "Philadelphia, PA",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.franklinfountain.com/",
+   "https://franklinfountain.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Weckerly's Ice Cream",
+  "city": "Philadelphia, PA",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.weckerlys.com/",
+   "https://weckerlys.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Dolcezza Gelato",
+  "city": "Washington, DC",
+  "cc": "US",
+  "region": "us",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://www.dolcezzagelato.com/",
+   "https://dolcezzagelato.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Hypnotic Donuts",
+  "city": "Dallas, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://hypnoticdonuts.com/",
+   "https://hypnoticdonuts.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Pai Northern Thai Kitchen",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.paistoronto.com/",
+   "https://paistoronto.com/contact"
+  ]
+ },
+ {
+  "name": "Soma Chocolatemaker",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://www.somachocolatemaker.com/",
+   "https://somachocolatemaker.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Dufflet Pastries",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://dufflet.com/",
+   "https://dufflet.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Bang Bang Ice Cream",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.bangbangicecream.com/",
+   "https://bangbangicecream.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Beaucoup Bakery",
+  "city": "Vancouver, BC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://beaucoupbakery.com/",
+   "https://beaucoupbakery.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Earnest Ice Cream",
+  "city": "Vancouver, BC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://earnesticecream.com/",
+   "https://earnesticecream.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Village Ice Cream",
+  "city": "Calgary, AB",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://villageicecream.com/",
+   "https://villageicecream.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Creamier Handcrafted Ice Cream",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://creamier.sg/",
+   "https://creamier.sg/pages/contact"
+  ]
+ },
+ {
+  "name": "Birds of Paradise Gelato",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://birdsofparadise.sg/",
+   "https://birdsofparadise.sg/pages/contact"
+  ]
+ },
+ {
+  "name": "Chin Chin",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "restaurant",
+  "urls": [
+   "https://chinchinrestaurant.com.au/",
+   "https://chinchinrestaurant.com.au/contact"
+  ]
+ },
+ {
+  "name": "Mamasita",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "restaurant",
+  "urls": [
+   "https://mamasita.com.au/",
+   "https://mamasita.com.au/contact"
+  ]
+ },
+ {
+  "name": "Coda Restaurant",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "restaurant",
+  "urls": [
+   "https://codarestaurant.com.au/",
+   "https://codarestaurant.com.au/contact"
+  ]
+ },
+ {
+  "name": "Kisume",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "restaurant",
+  "urls": [
+   "https://kisume.com.au/",
+   "https://kisume.com.au/contact"
+  ]
+ },
+ {
+  "name": "Gelato Messina",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.gelatomessina.com/",
+   "https://gelatomessina.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Pidapipo Gelateria",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://pidapipo.com.au/",
+   "https://pidapipo.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "Pellegrini's Espresso Bar",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "restaurant",
+  "urls": [
+   "https://pellegrinis.com.au/",
+   "https://pellegrinis.com.au/contact"
+  ]
+ },
+ {
+  "name": "Tiong Bahru Bakery",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://tiongbahrubakery.com/",
+   "https://tiongbahrubakery.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Sarnies Coffee",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.sarnies.sg/",
+   "https://sarnies.sg/pages/contact"
+  ]
+ },
+ {
+  "name": "Chye Seng Huat Hardware",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.chyesenghuat.com/",
+   "https://chyesenghuat.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Roast Bangkok",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.roastbangkok.com/",
+   "https://roastbangkok.com/contact"
+  ]
+ },
+ {
+  "name": "Ceresia Coffee Roasters",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://ceresiacoffee.com/",
+   "https://ceresiacoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Brasco Coffee",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://brascocoffee.com/",
+   "https://brascocoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Havana Coffee Works",
+  "city": "Wellington",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://havanacoffee.co.nz/",
+   "https://havanacoffee.co.nz/pages/contact"
+  ]
+ },
+ {
+  "name": "Lamason Coffee & Tea",
+  "city": "Wellington",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://lamason.co.nz/",
+   "https://lamason.co.nz/pages/contact"
+  ]
+ },
+ {
+  "name": "Life n One Cafe",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.lifenone.com/",
+   "https://lifenone.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Project Chaiwala",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://projectchaiwala.com/",
+   "https://projectchaiwala.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Espresso Lab Dubai",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://espressolab.com/",
+   "https://espressolab.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Zaroob Dubai",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.zaroob.com/",
+   "https://zaroob.com/contact"
+  ]
+ },
+ {
+  "name": "Hemelhuijs",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://hemelhuijs.co.za/",
+   "https://hemelhuijs.co.za/contact"
+  ]
+ },
+ {
+  "name": "Rosetta Roastery",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://rosettaroastery.co.za/",
+   "https://rosettaroastery.co.za/pages/contact"
+  ]
+ },
+ {
+  "name": "Shift Espresso",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://shiftespresso.co.za/",
+   "https://shiftespresso.co.za/pages/contact"
+  ]
+ },
+ {
+  "name": "Bearded Bella",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://beardedbella.com/",
+   "https://beardedbella.com/pages/contact"
+  ]
+ },
+ {
+  "name": "The Populus Coffee & Food Co",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://thepopulus.co/",
+   "https://thepopulus.co/pages/contact"
+  ]
+ },
+ {
+  "name": "Kith Cafe",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://kith.com.sg/",
+   "https://kith.com.sg/pages/contact"
+  ]
+ },
+ {
+  "name": "Open Farm Community",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://openfarmcommunity.com/",
+   "https://openfarmcommunity.com/contact"
+  ]
+ },
+ {
+  "name": "Antoinette Patisserie",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://antoinette.com.sg/",
+   "https://antoinette.com.sg/contact"
+  ]
+ },
+ {
+  "name": "Windowsill Pies",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://windowsillpies.com/",
+   "https://windowsillpies.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Baker & Cook",
+  "city": "Singapore",
+  "cc": "SG",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://bakerandcook.com/",
+   "https://bakerandcook.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Brave Roasters",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://braveroasters.com/",
+   "https://braveroasters.com/pages/contact"
+  ]
+ },
+ {
+  "name": "One Ounce for Onion",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://oneounceforonion.com/",
+   "https://oneounceforonion.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Rocket Coffeebar",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://rocketcoffeebar.com/",
+   "https://rocketcoffeebar.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Gallery Drip Coffee",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://gallerydripcoffee.com/",
+   "https://gallerydripcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Krua Apsorn",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://krua-apsorn.com/",
+   "https://krua-apsorn.com/contact"
+  ]
+ },
+ {
+  "name": "Memphis Belle Coffee Roasters",
+  "city": "Wellington",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://memphisbelle.co.nz/",
+   "https://memphisbelle.co.nz/pages/contact"
+  ]
+ },
+ {
+  "name": "The Hangar",
+  "city": "Wellington",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://thehangar.co.nz/",
+   "https://thehangar.co.nz/pages/contact"
+  ]
+ },
+ {
+  "name": "Prefab Cafe",
+  "city": "Wellington",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://prefab.co.nz/",
+   "https://prefab.co.nz/pages/contact"
+  ]
+ },
+ {
+  "name": "Coffee Supreme",
+  "city": "Wellington",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.supremecoffee.co.nz/",
+   "https://supremecoffee.co.nz/pages/contact"
+  ]
+ },
+ {
+  "name": "Moustache Milk & Cookie Bar",
+  "city": "Wellington",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://moustachecookies.co.nz/",
+   "https://moustachecookies.co.nz/pages/contact"
+  ]
+ },
+ {
+  "name": "Logan Brown Restaurant",
+  "city": "Wellington",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://loganbrown.co.nz/",
+   "https://loganbrown.co.nz/contact"
+  ]
+ },
+ {
+  "name": "The Sum of Us",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://thesumofus.cafe/",
+   "https://thesumofus.cafe/pages/contact"
+  ]
+ },
+ {
+  "name": "Tom & Serg",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://tomandserg.com/",
+   "https://tomandserg.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Coffee Archive",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://coffeearchive.ae/",
+   "https://coffeearchive.ae/pages/contact"
+  ]
+ },
+ {
+  "name": "One Life Kitchen and Cafe",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://onelifekitchencafe.com/",
+   "https://onelifekitchencafe.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Jason Bakery",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://jasonbakery.co.za/",
+   "https://jasonbakery.co.za/contact"
+  ]
+ },
+ {
+  "name": "Clarke's Dining",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://clarkesdining.co.za/",
+   "https://clarkesdining.co.za/contact"
+  ]
+ },
+ {
+  "name": "Cafe Caprice",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://cafecaprice.co.za/",
+   "https://cafecaprice.co.za/contact"
+  ]
+ },
+ {
+  "name": "Honest Chocolate Cafe",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://honestchocolate.co.za/",
+   "https://honestchocolate.co.za/contact"
+  ]
+ },
+ {
+  "name": "Unframed Ice Cream",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://unframedicecream.co.za/",
+   "https://unframedicecream.co.za/contact"
+  ]
+ },
+ {
+  "name": "Knead Bakery",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://kneadbakery.co.za/",
+   "https://kneadbakery.co.za/contact"
+  ]
+ },
+ {
+  "name": "Amano",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://amano.nz/",
+   "https://amano.nz/contact"
+  ]
+ },
+ {
+  "name": "Daily Bread",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://dailybread.co.nz/",
+   "https://dailybread.co.nz/contact"
+  ]
+ },
+ {
+  "name": "Best Ugly Bagels",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://bestugly.co.nz/",
+   "https://bestugly.co.nz/contact"
+  ]
+ },
+ {
+  "name": "Remedy Coffee",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://remedycoffee.co.nz/",
+   "https://remedycoffee.co.nz/contact"
+  ]
+ },
+ {
+  "name": "C1 Espresso",
+  "city": "Christchurch",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://c1espresso.co.nz/",
+   "https://c1espresso.co.nz/contact"
+  ]
+ },
+ {
+  "name": "Caffeine Laboratory",
+  "city": "Christchurch",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://caffeinelab.co.nz/",
+   "https://caffeinelab.co.nz/contact"
+  ]
+ },
+ {
+  "name": "Ozone Coffee Roasters",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://ozonecoffee.co.nz/",
+   "https://ozonecoffee.co.nz/contact"
+  ]
+ },
+ {
+  "name": "Scarecrow",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://scarecrow.co.nz/",
+   "https://scarecrow.co.nz/contact"
+  ]
+ },
+ {
+  "name": "Orphans Kitchen",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://orphanskitchen.co.nz/",
+   "https://orphanskitchen.co.nz/contact"
+  ]
+ },
+ {
+  "name": "Coffee Supreme Auckland",
+  "city": "Auckland",
+  "cc": "NZ",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://supremecoffee.co.nz/",
+   "https://supremecoffee.co.nz/contact"
+  ]
+ },
+ {
+  "name": "Casa Lapin",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://casalapin.com/",
+   "https://casalapin.com/contact"
+  ]
+ },
+ {
+  "name": "Akha Ama Coffee",
+  "city": "Chiang Mai",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://akhaama.com/",
+   "https://akhaama.com/contact"
+  ]
+ },
+ {
+  "name": "Phil Coffee Company",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://philcoffee.com/",
+   "https://philcoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Roast",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://roastbkk.com/",
+   "https://roastbkk.com/contact"
+  ]
+ },
+ {
+  "name": "Kuppa",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://kuppa.co.th/",
+   "https://kuppa.co.th/contact"
+  ]
+ },
+ {
+  "name": "Paga Microroastery",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://pagacoffee.com/",
+   "https://pagacoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Market Lane Coffee",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://marketlane.com.au/",
+   "https://marketlane.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "Proud Mary Coffee Roasters",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://proudmarycoffee.com.au/",
+   "https://proudmarycoffee.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "Aunty Peg\u2019s",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://auntypegs.com.au/",
+   "https://auntypegs.com.au/contact"
+  ]
+ },
+ {
+  "name": "Axil Coffee Roasters",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://axilcoffee.com.au/",
+   "https://axilcoffee.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "Higher Ground Melbourne",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "restaurant",
+  "urls": [
+   "https://highergroundmelbourne.com.au/",
+   "https://highergroundmelbourne.com.au/contact"
+  ]
+ },
+ {
+  "name": "Brother Baba Budan",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://seven-seeds.com.au/",
+   "https://seven-seeds.com.au/pages/contact"
+  ]
+ },
+ {
+  "name": "Tarts Anon",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "bakery",
+  "urls": [
+   "https://tartsanon.com.au/",
+   "https://tartsanon.com.au/contact"
+  ]
+ },
+ {
+  "name": "The Kettle Black",
+  "city": "South Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://thekettleblack.com.au/",
+   "https://thekettleblack.com.au/contact"
+  ]
+ },
+ {
+  "name": "Brunetti Oro",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "bakery",
+  "urls": [
+   "https://brunetti.com.au/",
+   "https://brunetti.com.au/contact"
+  ]
+ },
+ {
+  "name": "Patricia Coffee Brewers",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://patriciacoffeebrewers.com/",
+   "https://patriciacoffeebrewers.com/contact"
+  ]
+ },
+ {
+  "name": "Lune Croissanterie Sydney",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "bakery",
+  "urls": [
+   "https://lunecroissanterie.com/",
+   "https://lunecroissanterie.com/contact"
+  ]
+ },
+ {
+  "name": "Chin Chin Sydney",
+  "city": "Sydney, NSW",
+  "cc": "AU",
+  "region": "au",
+  "niche": "restaurant",
+  "urls": [
+   "https://chinchin.sydney/",
+   "https://chinchin.sydney/contact"
+  ]
+ },
+ {
+  "name": "Francois Artisan Baker",
+  "city": "Melbourne, VIC",
+  "cc": "AU",
+  "region": "au",
+  "niche": "bakery",
+  "urls": [
+   "https://francois.net.au/",
+   "https://francois.net.au/contact-us-3/"
+  ]
+ },
+ {
+  "name": "Common Grounds",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://commongrounds.ae/",
+   "https://commongrounds.ae/contact"
+  ]
+ },
+ {
+  "name": "Home Bakery",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://homebakery.ae/",
+   "https://homebakery.ae/contact"
+  ]
+ },
+ {
+  "name": "The Pot Luck Club",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://thepotluckclub.co.za/",
+   "https://thepotluckclub.co.za/contact"
+  ]
+ },
+ {
+  "name": "Truth Coffee Roasting",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://truthcoffee.com/",
+   "https://truthcoffee.com/contact"
+  ]
+ },
+ {
+  "name": "The Creamery",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://thecreamery.co.za/",
+   "https://thecreamery.co.za/contact"
+  ]
+ },
+ {
+  "name": "Clarke's Bar & Dining Room",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://clarkesdining.co.za/",
+   "https://clarkesdining.co.za/contact"
+  ]
+ }
+]
