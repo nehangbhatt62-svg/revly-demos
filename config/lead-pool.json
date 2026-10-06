@@ -3311,5 +3311,301 @@
   "urls": [
    "https://allarewelcomebakery.com/"
   ]
+ },
+ {
+  "name": "Rooster Coffee House",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://roostercoffeehouse.com/",
+   "https://roostercoffeehouse.com"
+  ]
+ },
+ {
+  "name": "Blackbird Baking",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://blackbirdbakingco.com/",
+   "https://blackbirdbakingco.com"
+  ]
+ },
+ {
+  "name": "Sam James Coffee Bar",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://samjamescoffeebar.com/",
+   "https://samjamescoffeebar.com"
+  ]
+ },
+ {
+  "name": "Monogram Coffee",
+  "city": "Calgary, AB",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://monogramcoffee.com/",
+   "https://monogramcoffee.com"
+  ]
+ },
+ {
+  "name": "Beta5 Chocolates",
+  "city": "Vancouver, BC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://beta5chocolates.com/",
+   "https://beta5chocolates.com"
+  ]
+ },
+ {
+  "name": "Art-Is-In Bakery",
+  "city": "Ottawa, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://artisinbakery.com/",
+   "https://artisinbakery.com"
+  ]
+ },
+ {
+  "name": "Pilot Coffee Roasters",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://pilotcoffee.com/"
+  ]
+ },
+ {
+  "name": "De Mello Palheta",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://demellopalheta.com/"
+  ]
+ },
+ {
+  "name": "Hale Coffee",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://halecoffee.com/"
+  ]
+ },
+ {
+  "name": "Subtext Coffee",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://subtextcoffee.com/"
+  ]
+ },
+ {
+  "name": "Hatch Coffee",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://hatchespresso.com/"
+  ]
+ },
+ {
+  "name": "Fahrenheit Coffee",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://fahrenheitcoffee.com/"
+  ]
+ },
+ {
+  "name": "Forno Cultura",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://fornocultura.com/"
+  ]
+ },
+ {
+  "name": "Craig's Cookies",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://craigscookies.ca/"
+  ]
+ },
+ {
+  "name": "Glory Hole Doughnuts",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://gloryholedoughnuts.com/"
+  ]
+ },
+ {
+  "name": "49th Parallel Coffee Roasters",
+  "city": "Vancouver, BC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://49thparallelroasters.com/"
+  ]
+ },
+ {
+  "name": "Matchstick Coffee Roasters",
+  "city": "Vancouver, BC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://matchstickcoffee.com/"
+  ]
+ },
+ {
+  "name": "Rain or Shine Ice Cream",
+  "city": "Vancouver, BC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://rainorshineicecream.com/"
+  ]
+ },
+ {
+  "name": "Hof Kelsten",
+  "city": "Montreal, QC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://hofkelsten.com/"
+  ]
+ },
+ {
+  "name": "Olive et Gourmando",
+  "city": "Montreal, QC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "cafe",
+  "urls": [
+   "https://oliveandgourmando.com/"
+  ]
+ },
+ {
+  "name": "Kouign Amann",
+  "city": "Montreal, QC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://kouign-amann.com/"
+  ]
+ },
+ {
+  "name": "Miette Boulangerie",
+  "city": "Montreal, QC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://mietteboulangerie.com/"
+  ]
+ },
+ {
+  "name": "Paillard",
+  "city": "Quebec City, QC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://paillard.ca/"
+  ]
+ },
+ {
+  "name": "Transcend Coffee",
+  "city": "Edmonton, AB",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://transcendcoffee.com/"
+  ]
+ },
+ {
+  "name": "Chaeban Ice Cream",
+  "city": "Winnipeg, MB",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://chaebanicecream.com/"
+  ]
+ },
+ {
+  "name": "Parlour Coffee",
+  "city": "Winnipeg, MB",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://parlourcoffee.com/"
+  ]
+ },
+ {
+  "name": "Fol Epi",
+  "city": "Victoria, BC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://folepi.ca/"
+  ]
+ },
+ {
+  "name": "Discovery Coffee",
+  "city": "Victoria, BC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://discoverycoffee.com/"
+  ]
+ },
+ {
+  "name": "The Merry Dairy",
+  "city": "Ottawa, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://themerrydairy.com/"
+  ]
  }
 ]
