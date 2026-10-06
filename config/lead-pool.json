@@ -3777,5 +3777,75 @@
   "urls": [
    "https://hanicoffee.com/"
   ]
+ },
+ {
+  "name": "Kiki Dessert",
+  "city": "Ultimo, Sydney",
+  "cc": "AU",
+  "region": "au",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://www.kikidessert.com.au/"
+  ]
+ },
+ {
+  "name": "Luca",
+  "city": "Sydney",
+  "cc": "AU",
+  "region": "au",
+  "niche": "bakery",
+  "urls": [
+   "https://www.lucabakery.com.au/"
+  ]
+ },
+ {
+  "name": "Short Grain",
+  "city": "Brisbane",
+  "cc": "AU",
+  "region": "au",
+  "niche": "restaurant",
+  "urls": [
+   "https://shortgrain.com.au/"
+  ]
+ },
+ {
+  "name": "Mary Street Bakery",
+  "city": "Perth",
+  "cc": "AU",
+  "region": "au",
+  "niche": "bakery",
+  "urls": [
+   "https://www.marystreetbakery.com.au/"
+  ]
+ },
+ {
+  "name": "Art & Go Gelato Cafe",
+  "city": "Brookvale, Sydney",
+  "cc": "AU",
+  "region": "au",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.artandgogelato.com/"
+  ]
+ },
+ {
+  "name": "C9 Chocolate & Gelato",
+  "city": "St Leonards, Sydney",
+  "cc": "AU",
+  "region": "au",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.c9gelato.com.au/contact-us"
+  ]
+ },
+ {
+  "name": "The Scoop Artisan Gelato",
+  "city": "Campbelltown, Sydney",
+  "cc": "AU",
+  "region": "au",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.thescoopartisangelato.com.au/"
+  ]
  }
 ]
