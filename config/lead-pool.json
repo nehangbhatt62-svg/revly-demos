@@ -3607,5 +3607,175 @@
   "urls": [
    "https://themerrydairy.com/"
   ]
+ },
+ {
+  "name": "Motorino Citta",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://motorinocitta.com/"
+  ]
+ },
+ {
+  "name": "Pizzaiolo",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://pizzaiolo.ca/"
+  ]
+ },
+ {
+  "name": "Gusto 101",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://gusto101.com/"
+  ]
+ },
+ {
+  "name": "Descendant Pizza",
+  "city": "Toronto, ON",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "restaurant",
+  "urls": [
+   "https://descendantpizza.com/"
+  ]
+ },
+ {
+  "name": "Patrice Demers Patissier",
+  "city": "Montreal, QC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://patricedemers.com/"
+  ]
+ },
+ {
+  "name": "La Danoise",
+  "city": "Montreal, QC",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://ladanoise.com/"
+  ]
+ },
+ {
+  "name": "Charly's Bakery",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://charlysbakery.co.za/"
+  ]
+ },
+ {
+  "name": "Deluxe Coffeeworks",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://deluxecoffeeworks.co.za/"
+  ]
+ },
+ {
+  "name": "Tessa's Bakery",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://tessasbakery.co.za/"
+  ]
+ },
+ {
+  "name": "Truth Coffee",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://truth.coffee/"
+  ]
+ },
+ {
+  "name": "Bootlegger Coffee",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://bootleggercoffee.co.za/"
+  ]
+ },
+ {
+  "name": "Raw Coffee Company",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://rawcoffee.com/"
+  ]
+ },
+ {
+  "name": "Seven Fortunes Coffee Roasters",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://sevenfortunes.com/"
+  ]
+ },
+ {
+  "name": "Nightjar Coffee",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://nightjarcoffee.ae/"
+  ]
+ },
+ {
+  "name": "The Espresso Lab",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://theespressolab.com/"
+  ]
+ },
+ {
+  "name": "Nusantara Coffee Roasters",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://nusantaracoffee.com/"
+  ]
+ },
+ {
+  "name": "Hani Coffee and Roastery",
+  "city": "Dubai",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://hanicoffee.com/"
+  ]
  }
 ]
