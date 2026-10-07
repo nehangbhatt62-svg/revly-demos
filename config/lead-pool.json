@@ -4334,5 +4334,150 @@
   "urls": [
    "https://overture.co.za"
   ]
+ },
+ {
+  "name": "Artisan Bakers",
+  "cc": "AE",
+  "city": "Dubai",
+  "niche": "bakery",
+  "urls": [
+   "https://artisanbakers.ae/",
+   "https://artisanbakers.ae/en/about"
+  ]
+ },
+ {
+  "name": "Cakes & Bakes",
+  "cc": "AE",
+  "city": "Dubai",
+  "niche": "bakery",
+  "urls": [
+   "https://cakesandbakes.ae/",
+   "https://cakesandbakes.ae/contact-us"
+  ]
+ },
+ {
+  "name": "Farah Bakery",
+  "cc": "AE",
+  "city": "Dubai",
+  "niche": "bakery",
+  "urls": [
+   "https://farahbakery.ae/",
+   "https://farahbakery.ae/contact"
+  ]
+ },
+ {
+  "name": "April's Bakery",
+  "cc": "AE",
+  "city": "Dubai",
+  "niche": "bakery",
+  "urls": [
+   "https://aprilsbakery.ae/",
+   "https://aprilsbakery.ae/contact-us"
+  ]
+ },
+ {
+  "name": "The Coffee Lab",
+  "cc": "AE",
+  "city": "Dubai",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://thecoffeelab.ae/"
+  ]
+ },
+ {
+  "name": "James Cafe",
+  "cc": "AE",
+  "city": "Abu Dhabi",
+  "niche": "cafe",
+  "urls": [
+   "https://jamesabudhabi.com/",
+   "https://jamesabudhabi.com/contact-us"
+  ]
+ },
+ {
+  "name": "Cafe Confetti",
+  "cc": "AE",
+  "city": "Dubai",
+  "niche": "cafe",
+  "urls": [
+   "https://cafeconfettidubai.com/",
+   "https://cafeconfettidubai.com/contact"
+  ]
+ },
+ {
+  "name": "Hamptons Cafe",
+  "cc": "AE",
+  "city": "Dubai",
+  "niche": "cafe",
+  "urls": [
+   "https://hamptonsdubai.com/",
+   "https://hamptonsdubai.com/contact-us"
+  ]
+ },
+ {
+  "name": "Gelato Divino",
+  "cc": "AE",
+  "city": "Dubai",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "http://gelatodivino.com/"
+  ]
+ },
+ {
+  "name": "Dulcino Gelato",
+  "cc": "AE",
+  "city": "Dubai",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.gelatodulcino.com/"
+  ]
+ },
+ {
+  "name": "Cremglasses",
+  "cc": "AE",
+  "city": "Dubai",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://cremglasse.ae/",
+   "https://cremglasse.ae/about"
+  ]
+ },
+ {
+  "name": "Canvas Gelato",
+  "cc": "AE",
+  "city": "Dubai",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://canvasgelato.com/"
+  ]
+ },
+ {
+  "name": "Choumicha",
+  "cc": "AE",
+  "city": "Dubai",
+  "niche": "cafe",
+  "urls": [
+   "https://choumichauae.com/",
+   "https://choumichauae.com/contact"
+  ]
+ },
+ {
+  "name": "Art House Cafe",
+  "cc": "AE",
+  "city": "Abu Dhabi",
+  "niche": "cafe",
+  "urls": [
+   "https://arthousecafe.smartcardsuae.com/"
+  ]
+ },
+ {
+  "name": "Chef Efranjyeh Cafe",
+  "cc": "AE",
+  "city": "Dubai",
+  "niche": "restaurant",
+  "urls": [
+   "https://chefefranjyeh.com/",
+   "https://chefefranjyeh.com/contact"
+  ]
  }
 ]
