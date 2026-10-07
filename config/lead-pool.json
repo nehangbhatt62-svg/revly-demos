@@ -3789,16 +3789,6 @@
   ]
  },
  {
-  "name": "Luca",
-  "city": "Sydney",
-  "cc": "AU",
-  "region": "au",
-  "niche": "bakery",
-  "urls": [
-   "https://www.lucabakery.com.au/"
-  ]
- },
- {
   "name": "Short Grain",
   "city": "Brisbane",
   "cc": "AU",
@@ -3826,26 +3816,6 @@
   "niche": "ice_cream_parlour",
   "urls": [
    "https://www.artandgogelato.com/"
-  ]
- },
- {
-  "name": "C9 Chocolate & Gelato",
-  "city": "St Leonards, Sydney",
-  "cc": "AU",
-  "region": "au",
-  "niche": "ice_cream_parlour",
-  "urls": [
-   "https://www.c9gelato.com.au/contact-us"
-  ]
- },
- {
-  "name": "The Scoop Artisan Gelato",
-  "city": "Campbelltown, Sydney",
-  "cc": "AU",
-  "region": "au",
-  "niche": "ice_cream_parlour",
-  "urls": [
-   "https://www.thescoopartisangelato.com.au/"
   ]
  },
  {
