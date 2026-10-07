@@ -3827,5 +3827,512 @@
   "urls": [
    "https://bills.com.au/"
   ]
+ },
+ {
+  "name": "Origin Coffee Roasting",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://originroasting.co.za",
+   "https://originroasting.co.za/pages/contact"
+  ]
+ },
+ {
+  "name": "The Company's Garden Restaurant",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.thecompanysgarden.com",
+   "https://www.thecompanysgarden.com#contact"
+  ]
+ },
+ {
+  "name": "Kleinsky's Delicatessen",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "cafe",
+  "urls": [
+   "https://www.kleinskys.co.za",
+   "https://www.kleinskys.co.za/pages/contact"
+  ]
+ },
+ {
+  "name": "The Loading Bay",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "cafe",
+  "urls": [
+   "https://loadingbay.co.za",
+   "https://loadingbay.co.za/pages/contact-us"
+  ]
+ },
+ {
+  "name": "Belly of the Beast",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "restaurant",
+  "urls": [
+   "https://bellyofthebeast.co.za",
+   "https://bellyofthebeast.co.za/community/contact"
+  ]
+ },
+ {
+  "name": "FYN Restaurant",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.fynrestaurant.com"
+  ]
+ },
+ {
+  "name": "Salsify at The Roundhouse",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "restaurant",
+  "urls": [
+   "https://salsify.co.za"
+  ]
+ },
+ {
+  "name": "The Strangers Club",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "cafe",
+  "urls": [
+   "https://www.thestrangersclub.co.za"
+  ]
+ },
+ {
+  "name": "Espresso Lab Microroasters",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://espressolabmicroroasters.com"
+  ]
+ },
+ {
+  "name": "The Dairy Den",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://thedairyden.com"
+  ]
+ },
+ {
+  "name": "Kloof Street House",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.kloofstreethouse.co.za",
+   "https://www.kloofstreethouse.co.za/contact"
+  ]
+ },
+ {
+  "name": "La T\u00eate",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "restaurant",
+  "urls": [
+   "https://latete.co.za"
+  ]
+ },
+ {
+  "name": "Between Us",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "cafe",
+  "urls": [
+   "https://betweenus.capetown",
+   "https://betweenus.capetown/contact-us"
+  ]
+ },
+ {
+  "name": "Mulberry & Prince",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.mulberryandprince.co.za"
+  ]
+ },
+ {
+  "name": "Chef's Warehouse",
+  "cc": "ZA",
+  "city": "Cape Town",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.chefswarehouse.co.za",
+   "https://www.chefswarehouse.co.za/contact-us"
+  ]
+ },
+ {
+  "name": "Bean There Coffee Company",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://beanthere.co.za",
+   "https://beanthere.co.za/pages/contact"
+  ]
+ },
+ {
+  "name": "Salvation Cafe",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "cafe",
+  "urls": [
+   "https://www.salvationcafe.co.za"
+  ]
+ },
+ {
+  "name": "The Grillhouse",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "restaurant",
+  "urls": [
+   "https://thegrillhouse.co.za"
+  ]
+ },
+ {
+  "name": "Marble Restaurant",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "restaurant",
+  "urls": [
+   "https://marble.restaurant",
+   "https://marble.restaurant/contact"
+  ]
+ },
+ {
+  "name": "Coalition Pizza",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "restaurant",
+  "urls": [
+   "https://coalitionpizza.co.za"
+  ]
+ },
+ {
+  "name": "BGR",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "fast_food",
+  "urls": [
+   "https://bgr.co.za"
+  ]
+ },
+ {
+  "name": "Craft Restaurant",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "restaurant",
+  "urls": [
+   "https://craftrestaurant.co.za",
+   "https://craftrestaurant.co.za/page/contact"
+  ]
+ },
+ {
+  "name": "Pantry by Marble",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "cafe",
+  "urls": [
+   "https://pantry.co.za",
+   "https://pantry.co.za/#contact_us"
+  ]
+ },
+ {
+  "name": "Nice on 4th",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "cafe",
+  "urls": [
+   "https://niceon4th.co.za",
+   "https://niceon4th.co.za/contact"
+  ]
+ },
+ {
+  "name": "Warm & Glad",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "cafe",
+  "urls": [
+   "https://warmandglad.com"
+  ]
+ },
+ {
+  "name": "Proud Mary",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.proudmary.co.za"
+  ]
+ },
+ {
+  "name": "Dough & Co",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "bakery",
+  "urls": [
+   "https://doughandco.co.za"
+  ]
+ },
+ {
+  "name": "Modena Italian Eatery",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.modena.co.za",
+   "https://www.modena.co.za/contact-us"
+  ]
+ },
+ {
+  "name": "Goddess Cafe",
+  "cc": "ZA",
+  "city": "Johannesburg",
+  "niche": "cafe",
+  "urls": [
+   "https://goddesscafe.co.za"
+  ]
+ },
+ {
+  "name": "The Glenwood Bakery",
+  "cc": "ZA",
+  "city": "Durban",
+  "niche": "bakery",
+  "urls": [
+   "https://www.glenwoodbakery.co.za"
+  ]
+ },
+ {
+  "name": "Surf Riders Cafe",
+  "cc": "ZA",
+  "city": "Durban",
+  "niche": "cafe",
+  "urls": [
+   "https://surfriders.co.za",
+   "https://surfriders.co.za/contact-us"
+  ]
+ },
+ {
+  "name": "9th Avenue Waterside",
+  "cc": "ZA",
+  "city": "Durban",
+  "niche": "restaurant",
+  "urls": [
+   "https://9thavenue.co.za",
+   "https://9thavenue.co.za/contact"
+  ]
+ },
+ {
+  "name": "Sugarlicious",
+  "cc": "ZA",
+  "city": "Durban",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://www.sugarlicious.co.za"
+  ]
+ },
+ {
+  "name": "Humble Coffee",
+  "cc": "ZA",
+  "city": "Durban",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.humblecoffee.co.za",
+   "https://www.humblecoffee.co.za/policies/contact-information"
+  ]
+ },
+ {
+  "name": "Unity Brasserie",
+  "cc": "ZA",
+  "city": "Durban",
+  "niche": "restaurant",
+  "urls": [
+   "https://unitybar.co.za",
+   "https://unitybar.co.za#contact"
+  ]
+ },
+ {
+  "name": "Bike & Saddle",
+  "cc": "ZA",
+  "city": "Durban",
+  "niche": "cafe",
+  "urls": [
+   "https://bikeandsaddle.com"
+  ]
+ },
+ {
+  "name": "Love Coffee",
+  "cc": "ZA",
+  "city": "Durban",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://lovecoffee.co.za"
+  ]
+ },
+ {
+  "name": "Bellevue Cafe",
+  "cc": "ZA",
+  "city": "Durban",
+  "niche": "cafe",
+  "urls": [
+   "https://bellevuecafe.co.za",
+   "https://bellevuecafe.co.za/contact-us"
+  ]
+ },
+ {
+  "name": "Mamma Luciana's",
+  "cc": "ZA",
+  "city": "Durban",
+  "niche": "restaurant",
+  "urls": [
+   "https://mammalucianas.co.za"
+  ]
+ },
+ {
+  "name": "The Glenwood Restaurant",
+  "cc": "ZA",
+  "city": "Durban",
+  "niche": "restaurant",
+  "urls": [
+   "https://glenwoodrestaurant.com",
+   "https://glenwoodrestaurant.com/contact"
+  ]
+ },
+ {
+  "name": "Ya-Ya Cafe",
+  "cc": "ZA",
+  "city": "Stellenbosch",
+  "niche": "cafe",
+  "urls": [
+   "https://www.yayacafe.co.za",
+   "https://www.yayacafe.co.za/contact"
+  ]
+ },
+ {
+  "name": "Post & Pepper Restaurant",
+  "cc": "ZA",
+  "city": "Stellenbosch",
+  "niche": "restaurant",
+  "urls": [
+   "https://postandpepper.co.za",
+   "https://postandpepper.co.za/contact"
+  ]
+ },
+ {
+  "name": "Smitten Cafe",
+  "cc": "ZA",
+  "city": "Stellenbosch",
+  "niche": "cafe",
+  "urls": [
+   "https://www.smittencafe.co.za"
+  ]
+ },
+ {
+  "name": "Schoon Bakery",
+  "cc": "ZA",
+  "city": "Stellenbosch",
+  "niche": "bakery",
+  "urls": [
+   "https://schoon.co.za",
+   "https://schoon.co.za#contact"
+  ]
+ },
+ {
+  "name": "The Fat Butcher",
+  "cc": "ZA",
+  "city": "Stellenbosch",
+  "niche": "restaurant",
+  "urls": [
+   "https://fatbutcher.co.za",
+   "https://fatbutcher.co.za/contact-us"
+  ]
+ },
+ {
+  "name": "Basic Bistro",
+  "cc": "ZA",
+  "city": "Stellenbosch",
+  "niche": "restaurant",
+  "urls": [
+   "https://basicbistro.co.za",
+   "https://basicbistro.co.za/contact"
+  ]
+ },
+ {
+  "name": "Dusk Restaurant",
+  "cc": "ZA",
+  "city": "Stellenbosch",
+  "niche": "restaurant",
+  "urls": [
+   "https://duskrestaurant.co.za"
+  ]
+ },
+ {
+  "name": "Kleine Zalze Restaurant",
+  "cc": "ZA",
+  "city": "Stellenbosch",
+  "niche": "restaurant",
+  "urls": [
+   "https://kleinezalze.co.za",
+   "https://kleinezalze.co.za/contact"
+  ]
+ },
+ {
+  "name": "Wild Peacock Food Emporium",
+  "cc": "ZA",
+  "city": "Stellenbosch",
+  "niche": "cafe",
+  "urls": [
+   "https://www.wildpeacock.co.za",
+   "https://www.wildpeacock.co.za/pages/contact"
+  ]
+ },
+ {
+  "name": "Bertus Basson at Eike",
+  "cc": "ZA",
+  "city": "Stellenbosch",
+  "niche": "restaurant",
+  "urls": [
+   "https://bertusbasson.com",
+   "https://bertusbasson.com/contact"
+  ]
+ },
+ {
+  "name": "Rust en Vrede Restaurant",
+  "cc": "ZA",
+  "city": "Stellenbosch",
+  "niche": "restaurant",
+  "urls": [
+   "https://rustenvrede.com",
+   "https://rustenvrede.com/contact-us"
+  ]
+ },
+ {
+  "name": "Jordan Restaurant",
+  "cc": "ZA",
+  "city": "Stellenbosch",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.jordanwines.com",
+   "https://www.jordanwines.com/contact"
+  ]
+ },
+ {
+  "name": "Overture Restaurant",
+  "cc": "ZA",
+  "city": "Stellenbosch",
+  "niche": "restaurant",
+  "urls": [
+   "https://overture.co.za"
+  ]
  }
 ]
