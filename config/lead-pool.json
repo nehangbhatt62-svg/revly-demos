@@ -3847,5 +3847,15 @@
   "urls": [
    "https://www.thescoopartisangelato.com.au/"
   ]
+ },
+ {
+  "name": "bills",
+  "city": "Surry Hills, Sydney",
+  "cc": "AU",
+  "region": "au",
+  "niche": "cafe",
+  "urls": [
+   "https://bills.com.au/"
+  ]
  }
 ]
