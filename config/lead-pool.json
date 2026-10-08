@@ -2816,7 +2816,7 @@
   ]
  },
  {
-  "name": "Aunty Peg\u2019s",
+  "name": "Aunty Peg’s",
   "city": "Melbourne, VIC",
   "cc": "AU",
   "region": "au",
@@ -3934,7 +3934,7 @@
   ]
  },
  {
-  "name": "La T\u00eate",
+  "name": "La Tête",
   "cc": "ZA",
   "city": "Cape Town",
   "niche": "restaurant",
@@ -4478,6 +4478,39 @@
   "urls": [
    "https://chefefranjyeh.com/",
    "https://chefefranjyeh.com/contact"
+  ]
+ },
+ {
+  "name": "Cassette",
+  "city": "Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://cassette.ae/",
+   "https://cassette.ae/contact"
+  ]
+ },
+ {
+  "name": "Comptoir 102",
+  "city": "Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://comptoir102.com/",
+   "https://comptoir102.com/contact"
+  ]
+ },
+ {
+  "name": "Seva Table",
+  "city": "Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://www.sevaexperience.com/",
+   "https://www.sevaexperience.com/contact"
   ]
  }
 ]
