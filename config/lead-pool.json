@@ -5568,5 +5568,379 @@
    "https://lebua.com/restaurants/sirocco/",
    "https://lebua.com/restaurants/sirocco/contact"
   ]
+ },
+ {
+  "name": "Caf\u00e9 Frank",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://www.cafefrank.com/",
+   "https://www.cafefrank.com/contact"
+  ]
+ },
+ {
+  "name": "Will's",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://oumeul.co.za/ou-meul-stores/ou-meul-oranjezicht/",
+   "https://oumeul.co.za/ou-meul-stores/ou-meul-oranjezicht/contact"
+  ]
+ },
+ {
+  "name": "NY Slice",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://nyslicepizza.com/",
+   "https://nyslicepizza.com/contact"
+  ]
+ },
+ {
+  "name": "Kamili Coffee Shop",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.kamilicoffee.co.za/",
+   "https://www.kamilicoffee.co.za/contact"
+  ]
+ },
+ {
+  "name": "The Creamery Caf\u00e9 Newlands",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://thecreamery.co.za/",
+   "https://thecreamery.co.za/contact"
+  ]
+ },
+ {
+  "name": "Honest Chocolate",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://honestchocolate.co.za/",
+   "https://honestchocolate.co.za/contact"
+  ]
+ },
+ {
+  "name": "Coffee Bloc",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://buitenverwachting.com/coffee-bloc/",
+   "https://buitenverwachting.com/coffee-bloc/contact"
+  ]
+ },
+ {
+  "name": "Loading Bay",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://loadingbay.co.za/",
+   "https://loadingbay.co.za/contact"
+  ]
+ },
+ {
+  "name": "Alchemy Coffee Roasters",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.alchemyroasters.co.za/",
+   "https://www.alchemyroasters.co.za/contact"
+  ]
+ },
+ {
+  "name": "Flat Mountain Coffee Ritualist",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://flatmountainroasters.co.za/",
+   "https://flatmountainroasters.co.za/contact"
+  ]
+ },
+ {
+  "name": "El Greeyo Roastery",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.elgreeyo.co.za/",
+   "https://www.elgreeyo.co.za/contact"
+  ]
+ },
+ {
+  "name": "The Gardener's Cottage",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.gardenerscottage.co.za/",
+   "https://www.gardenerscottage.co.za/contact"
+  ]
+ },
+ {
+  "name": "Kirsten's Kickass Ice Cream",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://kristenskickass.co.za/",
+   "https://kristenskickass.co.za/contact"
+  ]
+ },
+ {
+  "name": "The Conscious Kitchen",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://www.theconsciouskitchen.co.za/",
+   "https://www.theconsciouskitchen.co.za/contact"
+  ]
+ },
+ {
+  "name": "Step Brothers Restaurant and Bar",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.stepbrothers.co.za/",
+   "https://www.stepbrothers.co.za/contact"
+  ]
+ },
+ {
+  "name": "N\u00fc",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://nu10.goreview.co.za/store-information/",
+   "https://nu10.goreview.co.za/store-information/contact"
+  ]
+ },
+ {
+  "name": "N\u00fc Health Food",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://nu11.goreview.co.za/store-information/",
+   "https://nu11.goreview.co.za/store-information/contact"
+  ]
+ },
+ {
+  "name": "The Ladder",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.theladderon136.com/",
+   "https://www.theladderon136.com/contact"
+  ]
+ },
+ {
+  "name": "Old Town Motorcycles",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://oldtownmotorcycles.co.za/",
+   "https://oldtownmotorcycles.co.za/contact"
+  ]
+ },
+ {
+  "name": "Cookie Co.",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://cookieco.co.za/",
+   "https://cookieco.co.za/contact"
+  ]
+ },
+ {
+  "name": "South Yeaster Bakery",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "bakery",
+  "urls": [
+   "https://www.southyeaster.co.za/",
+   "https://www.southyeaster.co.za/contact"
+  ]
+ },
+ {
+  "name": "Lion\u2019s Bread",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "bakery",
+  "urls": [
+   "https://lionsbread.co.za/",
+   "https://lionsbread.co.za/contact"
+  ]
+ },
+ {
+  "name": "Kristen's Kick-Ass Ice Cream",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.kristenskickass.co.za/",
+   "https://www.kristenskickass.co.za/contact"
+  ]
+ },
+ {
+  "name": "GINJA",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://newmarkhotels.com/dining/ginja-restaurant/",
+   "https://newmarkhotels.com/dining/ginja-restaurant/contact"
+  ]
+ },
+ {
+  "name": "Quay Four",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.quay4.co.za/",
+   "https://www.quay4.co.za/contact"
+  ]
+ },
+ {
+  "name": "Mitchell's Scottish Ale House Victoria & Alfred Waterfront",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://mitchellsalehouse.co.za/",
+   "https://mitchellsalehouse.co.za/contact"
+  ]
+ },
+ {
+  "name": "Ferrymans Tavern",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.ferrymans.co.za/",
+   "https://www.ferrymans.co.za/contact"
+  ]
+ },
+ {
+  "name": "Connexxion Restaurant",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.southernsun.com/garden-court-victoria-junction/dining/",
+   "https://www.southernsun.com/garden-court-victoria-junction/dining/contact"
+  ]
+ },
+ {
+  "name": "Beluga",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://beluga.co.za/",
+   "https://beluga.co.za/contact"
+  ]
+ },
+ {
+  "name": "Greens",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://greensrestaurants.co.za/",
+   "https://greensrestaurants.co.za/contact"
+  ]
+ },
+ {
+  "name": "John Dory's",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.johndorys.com/za/find-a-restaurant/western-cape/century-city/john-dory's-century-city/",
+   "https://www.johndorys.com/za/find-a-restaurant/western-cape/century-city/john-dory's-century-city/contact"
+  ]
+ },
+ {
+  "name": "Fynkos",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://fynkos.co.za/",
+   "https://fynkos.co.za/contact"
+  ]
+ },
+ {
+  "name": "Nelson's Eye Grill & Restaurant",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://nelsons-eye.co.za/",
+   "https://nelsons-eye.co.za/contact"
+  ]
+ },
+ {
+  "name": "Wharfside Grill Restaurant - Mariner's Wharf",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://www.marinerswharf.co.za/",
+   "https://www.marinerswharf.co.za/contact"
+  ]
  }
 ]
