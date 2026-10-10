@@ -2816,7 +2816,7 @@
   ]
  },
  {
-  "name": "Aunty Peg’s",
+  "name": "Aunty Peg\u2019s",
   "city": "Melbourne, VIC",
   "cc": "AU",
   "region": "au",
@@ -3934,7 +3934,7 @@
   ]
  },
  {
-  "name": "La Tête",
+  "name": "La T\u00eate",
   "cc": "ZA",
   "city": "Cape Town",
   "niche": "restaurant",
@@ -4511,6 +4511,732 @@
   "urls": [
    "https://www.sevaexperience.com/",
    "https://www.sevaexperience.com/contact"
+  ]
+ },
+ {
+  "name": "Momolato",
+  "city": "Kampong Glam, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://momolato.com/",
+   "https://momolato.com/contact"
+  ]
+ },
+ {
+  "name": "The Better Half",
+  "city": "Everton Park, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://www.thebetterhalf.sg/",
+   "https://www.thebetterhalf.sg/contact"
+  ]
+ },
+ {
+  "name": "Mother Dough",
+  "city": "Kampong Glam, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "bakery",
+  "urls": [
+   "https://www.motherdough.com.sg/",
+   "https://www.motherdough.com.sg/contact"
+  ]
+ },
+ {
+  "name": "La Levain",
+  "city": "Jalan Besar, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "bakery",
+  "urls": [
+   "https://www.lalevain.com/",
+   "https://www.lalevain.com/contact"
+  ]
+ },
+ {
+  "name": "Dopa Dopa Creamery",
+  "city": "Tanjong Pagar, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.dopadopacreamery.com/",
+   "https://www.dopadopacreamery.com/contact"
+  ]
+ },
+ {
+  "name": "Maxi Coffee Bar",
+  "city": "Tanjong Pagar, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://maxicoffeebar.com/",
+   "https://maxicoffeebar.com/contact"
+  ]
+ },
+ {
+  "name": "Old Hen Coffee Bar",
+  "city": "Farrer Park, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://www.oldhencoffee.com/",
+   "https://www.oldhencoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Percolate Cafe",
+  "city": "Bedok, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://percolate.sg/",
+   "https://percolate.sg/contact"
+  ]
+ },
+ {
+  "name": "Glyph Supply Co",
+  "city": "Orchard, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://glyphsupply.co/",
+   "https://glyphsupply.co/contact"
+  ]
+ },
+ {
+  "name": "Wildseed Cafe",
+  "city": "Seletar, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://www.wildseedcafe.sg/",
+   "https://www.wildseedcafe.sg/contact"
+  ]
+ },
+ {
+  "name": "Denzy Gelato",
+  "city": "Bishan, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://denzygelato.com/",
+   "https://denzygelato.com/contact"
+  ]
+ },
+ {
+  "name": "Overscoop",
+  "city": "Yishun, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://overscoop.com.sg/",
+   "https://overscoop.com.sg/contact"
+  ]
+ },
+ {
+  "name": "Butterknife Folk",
+  "city": "City Hall, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.butterknifefolk.com/",
+   "https://www.butterknifefolk.com/contact"
+  ]
+ },
+ {
+  "name": "Merely Ice Cream",
+  "city": "Bencoolen, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.merely.com.sg/",
+   "https://www.merely.com.sg/contact"
+  ]
+ },
+ {
+  "name": "Compound Coffee Co",
+  "city": "Kaki Bukit, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://compoundcoffee.com/",
+   "https://compoundcoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Neptune Cafe",
+  "city": "East Coast, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://www.neptunecafe.com/",
+   "https://www.neptunecafe.com/contact"
+  ]
+ },
+ {
+  "name": "Nasty Cookie",
+  "city": "Orchard, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "sweet_shop",
+  "urls": [
+   "https://www.nastycookie.com/",
+   "https://www.nastycookie.com/contact"
+  ]
+ },
+ {
+  "name": "Butter Studio",
+  "city": "Jalan Besar, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "bakery",
+  "urls": [
+   "https://www.thebutterstudio.com/",
+   "https://www.thebutterstudio.com/contact"
+  ]
+ },
+ {
+  "name": "Whisk & Paddle",
+  "city": "Punggol, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://whiskandpaddle.com.sg/",
+   "https://whiskandpaddle.com.sg/contact"
+  ]
+ },
+ {
+  "name": "Assembly Ground",
+  "city": "Dhoby Ghaut, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://www.theassemblyground.com/",
+   "https://www.theassemblyground.com/contact"
+  ]
+ },
+ {
+  "name": "Parchmen & Co",
+  "city": "Bukit Timah, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://parchmen.co/",
+   "https://parchmen.co/contact"
+  ]
+ },
+ {
+  "name": "Apiary",
+  "city": "Chinatown, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://apiary.sg/",
+   "https://apiary.sg/contact"
+  ]
+ },
+ {
+  "name": "Birds of Paradise",
+  "city": "Katong, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://birdsofparadise.sg/",
+   "https://birdsofparadise.sg/contact"
+  ]
+ },
+ {
+  "name": "Alchemist",
+  "city": "Tanjong Pagar, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://alchemist.com.sg/",
+   "https://alchemist.com.sg/contact"
+  ]
+ },
+ {
+  "name": "Equate Coffee",
+  "city": "Tanjong Pagar, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://equate.sg/",
+   "https://equate.sg/contact"
+  ]
+ },
+ {
+  "name": "Coexist Coffee Co",
+  "city": "Paya Lebar, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://coexistcoffee.co/",
+   "https://coexistcoffee.co/contact"
+  ]
+ },
+ {
+  "name": "The Populus",
+  "city": "Chinatown, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://thepopulus.cafe/",
+   "https://thepopulus.cafe/contact"
+  ]
+ },
+ {
+  "name": "The Glasshouse",
+  "city": "City Hall, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://theglasshousesg.com/",
+   "https://theglasshousesg.com/contact"
+  ]
+ },
+ {
+  "name": "Brawn & Brains Coffee",
+  "city": "Katong, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://www.brawnandbrains.sg/",
+   "https://www.brawnandbrains.sg/contact"
+  ]
+ },
+ {
+  "name": "The Dark Gallery",
+  "city": "Millenia Walk, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://thedarkgallery.com/",
+   "https://thedarkgallery.com/contact"
+  ]
+ },
+ {
+  "name": "Dutch Colony Coffee Co",
+  "city": "Siglap, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.dutchcolony.sg/",
+   "https://www.dutchcolony.sg/contact"
+  ]
+ },
+ {
+  "name": "Tom's Palette",
+  "city": "Bugis, Singapore",
+  "cc": "SG",
+  "region": "apac",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.tomspalette.com.sg/",
+   "https://www.tomspalette.com.sg/contact"
+  ]
+ },
+ {
+  "name": "Bageri Form",
+  "city": "Dubai Design District, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "bakery",
+  "urls": [
+   "https://www.bageriform.com/",
+   "https://www.bageriform.com/contact"
+  ]
+ },
+ {
+  "name": "BOHOX",
+  "city": "Downtown Dubai, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://boho-x.com/",
+   "https://boho-x.com/contact"
+  ]
+ },
+ {
+  "name": "LDC Kitchen + Coffee",
+  "city": "Jumeirah Lakes Towers, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://www.ldckitchen.com/",
+   "https://www.ldckitchen.com/contact"
+  ]
+ },
+ {
+  "name": "3 Fils",
+  "city": "Jumeirah Fishing Harbour, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://3fils.com/",
+   "https://3fils.com/contact"
+  ]
+ },
+ {
+  "name": "BOCA",
+  "city": "DIFC, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://boca.ae/",
+   "https://boca.ae/contact"
+  ]
+ },
+ {
+  "name": "11 Woodfire",
+  "city": "Jumeirah 1, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "restaurant",
+  "urls": [
+   "https://11woodfire.com/",
+   "https://11woodfire.com/contact"
+  ]
+ },
+ {
+  "name": "Mitts & Trays",
+  "city": "Bluewaters Island, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://mittsandtrays.com/",
+   "https://mittsandtrays.com/contact"
+  ]
+ },
+ {
+  "name": "Birch Bakery",
+  "city": "Al Quoz, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "bakery",
+  "urls": [
+   "https://www.birchbakery.com/",
+   "https://www.birchbakery.com/contact"
+  ]
+ },
+ {
+  "name": "Rise & Dawn Bakehouse",
+  "city": "Al Quoz, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "bakery",
+  "urls": [
+   "https://www.riseanddawnbakehouse.com/",
+   "https://www.riseanddawnbakehouse.com/contact"
+  ]
+ },
+ {
+  "name": "Wild & The Moon",
+  "city": "Alserkal Avenue, Al Quoz, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "juice_bar",
+  "urls": [
+   "https://www.wildandthemoon.ae/",
+   "https://www.wildandthemoon.ae/contact"
+  ]
+ },
+ {
+  "name": "Pekoe Tea & Bakery",
+  "city": "Alserkal Avenue, Al Quoz, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "bakery",
+  "urls": [
+   "https://www.pekoeteabar.com/",
+   "https://www.pekoeteabar.com/contact"
+  ]
+ },
+ {
+  "name": "Love Vibe Cafe",
+  "city": "Khalifa City, Abu Dhabi, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://lovevibecafe.com/",
+   "https://lovevibecafe.com/contact"
+  ]
+ },
+ {
+  "name": "Sola Cafe",
+  "city": "Sheikha Fatima Park, Al Bateen, Abu Dhabi, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://www.solacafe.com/",
+   "https://www.solacafe.com/contact"
+  ]
+ },
+ {
+  "name": "Al Sultan Sweets",
+  "city": "Sultan Bin Zayed the First St, Abu Dhabi, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "sweet_shop",
+  "urls": [
+   "https://www.alsultansweets.ae/",
+   "https://www.alsultansweets.ae/contact"
+  ]
+ },
+ {
+  "name": "Best Mix Sweets",
+  "city": "Mushrif Mall, Abu Dhabi, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "sweet_shop",
+  "urls": [
+   "https://www.bestmix.ae/",
+   "https://www.bestmix.ae/contact"
+  ]
+ },
+ {
+  "name": "Al Samadi Sweets",
+  "city": "Muroor Road, Abu Dhabi, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "sweet_shop",
+  "urls": [
+   "https://alsamadisweets.com/",
+   "https://alsamadisweets.com/contact"
+  ]
+ },
+ {
+  "name": "House of Pops",
+  "city": "Kite Beach, Jumeirah, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.houseofpops.ae/",
+   "https://www.houseofpops.ae/contact"
+  ]
+ },
+ {
+  "name": "Stomping Grounds",
+  "city": "Jumeirah 1, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.stompinggrounds.ae/",
+   "https://www.stompinggrounds.ae/contact"
+  ]
+ },
+ {
+  "name": "Rain Cafe",
+  "city": "Al Bateen, Abu Dhabi, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://rain.ae/",
+   "https://rain.ae/contact"
+  ]
+ },
+ {
+  "name": "Shot Specialty Coffee",
+  "city": "Hudayriyat Island, Abu Dhabi, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://shot.ae/",
+   "https://shot.ae/contact"
+  ]
+ },
+ {
+  "name": "Amongst Few Cafe",
+  "city": "Jumeirah Beach Road, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://www.amongstfew.com/",
+   "https://www.amongstfew.com/contact"
+  ]
+ },
+ {
+  "name": "Boston Lane",
+  "city": "The Courtyard, Al Quoz, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://www.courtyard-uae.com/boston-lane/",
+   "https://www.courtyard-uae.com/boston-lane/contact"
+  ]
+ },
+ {
+  "name": "Myocum",
+  "city": "Dar Wasl Mall, Al Wasl, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://myocumdubai.com/",
+   "https://myocumdubai.com/contact"
+  ]
+ },
+ {
+  "name": "Nette",
+  "city": "Matcha Club, Al Quoz, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://www.nette.ae/",
+   "https://www.nette.ae/contact"
+  ]
+ },
+ {
+  "name": "Splendour Fields",
+  "city": "Jumeirah Lake Towers, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://www.splendourfields.com/",
+   "https://www.splendourfields.com/contact"
+  ]
+ },
+ {
+  "name": "The Grey",
+  "city": "Al Wasl Road, Al Safa, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://the-grey.co/",
+   "https://the-grey.co/contact"
+  ]
+ },
+ {
+  "name": "Kulture House",
+  "city": "106 Beach Road, Jumeirah 1, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://kulturehousedubai.com/",
+   "https://kulturehousedubai.com/contact"
+  ]
+ },
+ {
+  "name": "The Lime Tree Cafe",
+  "city": "Jumeirah 1, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://www.thelimetreecafe.com/",
+   "https://www.thelimetreecafe.com/contact"
+  ]
+ },
+ {
+  "name": "Arrows and Sparrows",
+  "city": "Emaar Business Park, The Greens, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://www.arrowsparrows.com/",
+   "https://www.arrowsparrows.com/contact"
+  ]
+ },
+ {
+  "name": "Apricot",
+  "city": "Al Manzil, Downtown Dubai, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "cafe",
+  "urls": [
+   "https://www.apricotdubai.com/",
+   "https://www.apricotdubai.com/contact"
+  ]
+ },
+ {
+  "name": "Tania's Teahouse",
+  "city": "Dubai Hills Estate, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://www.taniasteahouse.com/",
+   "https://www.taniasteahouse.com/contact"
+  ]
+ },
+ {
+  "name": "Brownie Point",
+  "city": "Karama, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://www.browniepointuae.com/",
+   "https://www.browniepointuae.com/contact"
+  ]
+ },
+ {
+  "name": "Juice World",
+  "city": "Al Muraqqabat, Deira, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "juice_bar",
+  "urls": [
+   "https://juiceworld.ae/",
+   "https://juiceworld.ae/contact"
+  ]
+ },
+ {
+  "name": "Fruitful Day",
+  "city": "Dubai Investment Park, Dubai, UAE",
+  "cc": "AE",
+  "region": "mea",
+  "niche": "juice_bar",
+  "urls": [
+   "https://fruitfulday.com/",
+   "https://fruitfulday.com/contact"
   ]
  }
 ]
