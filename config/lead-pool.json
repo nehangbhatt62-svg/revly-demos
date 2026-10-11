@@ -18,7 +18,11 @@
   "niche": "coffee_shop",
   "urls": [
    "https://www.partnerscoffee.com/",
-   "https://www.partnerscoffee.com/pages/contact"
+   "https://www.partnerscoffee.com/pages/contact",
+   "https://www.partnerscoffee.com/about",
+   "https://www.partnerscoffee.com/about-us",
+   "https://www.partnerscoffee.com/find-us",
+   "https://www.partnerscoffee.com/info"
   ]
  },
  {
@@ -62,7 +66,13 @@
   "niche": "coffee_shop",
   "urls": [
    "https://www.cafegrumpy.com/",
-   "https://www.cafegrumpy.com/contact"
+   "https://www.cafegrumpy.com/contact",
+   "https://www.cafegrumpy.com/contact-us",
+   "https://www.cafegrumpy.com/about",
+   "https://www.cafegrumpy.com/about-us",
+   "https://www.cafegrumpy.com/pages/contact",
+   "https://www.cafegrumpy.com/find-us",
+   "https://www.cafegrumpy.com/info"
   ]
  },
  {
@@ -128,7 +138,11 @@
   "niche": "coffee_shop",
   "urls": [
    "https://goodboybob.com/",
-   "https://goodboybob.com/pages/contact"
+   "https://goodboybob.com/pages/contact",
+   "https://goodboybob.com/about",
+   "https://goodboybob.com/about-us",
+   "https://goodboybob.com/find-us",
+   "https://goodboybob.com/info"
   ]
  },
  {
@@ -249,7 +263,9 @@
   "niche": "coffee_shop",
   "urls": [
    "https://saintfrankcoffee.com/",
-   "https://saintfrankcoffee.com/pages/contact"
+   "https://saintfrankcoffee.com/pages/contact",
+   "https://saintfrankcoffee.com/about",
+   "https://saintfrankcoffee.com/about-us"
   ]
  },
  {
@@ -304,7 +320,8 @@
   "niche": "coffee_shop",
   "urls": [
    "https://herkimercoffee.com/",
-   "https://herkimercoffee.com/pages/contact"
+   "https://herkimercoffee.com/pages/contact",
+   "https://herkimercoffee.com/about"
   ]
  },
  {
@@ -392,7 +409,8 @@
   "niche": "bakery",
   "urls": [
    "https://www.flourbakery.com/",
-   "https://www.flourbakery.com/pages/contact"
+   "https://www.flourbakery.com/pages/contact",
+   "https://www.flourbakery.com/about-us"
   ]
  },
  {
@@ -458,7 +476,9 @@
   "niche": "bakery",
   "urls": [
    "https://www.zakthebaker.com/",
-   "https://zakthebaker.com/pages/contact"
+   "https://zakthebaker.com/pages/contact",
+   "https://www.zakthebaker.com/contact-us",
+   "https://www.zakthebaker.com/about-us"
   ]
  },
  {
@@ -524,7 +544,8 @@
   "niche": "coffee_shop",
   "urls": [
    "https://www.patikacoffee.com/",
-   "https://patikacoffee.com/pages/contact"
+   "https://patikacoffee.com/pages/contact",
+   "https://www.patikacoffee.com/about"
   ]
  },
  {
@@ -590,7 +611,12 @@
   "niche": "coffee_shop",
   "urls": [
    "https://purpledoorcoffee.com/",
-   "https://purpledoorcoffee.com/pages/contact"
+   "https://purpledoorcoffee.com/pages/contact",
+   "https://purpledoorcoffee.com/contact-us",
+   "https://purpledoorcoffee.com/about",
+   "https://purpledoorcoffee.com/about-us",
+   "https://purpledoorcoffee.com/find-us",
+   "https://purpledoorcoffee.com/info"
   ]
  },
  {
@@ -667,7 +693,9 @@
   "niche": "coffee_shop",
   "urls": [
    "https://www.eighthandroast.com/",
-   "https://eighthandroast.com/pages/contact"
+   "https://eighthandroast.com/pages/contact",
+   "https://www.eighthandroast.com/contact-us",
+   "https://www.eighthandroast.com/pages/contact"
   ]
  },
  {
@@ -733,7 +761,13 @@
   "niche": "coffee_shop",
   "urls": [
    "https://www.peregrineespresso.com/",
-   "https://peregrineespresso.com/pages/contact"
+   "https://peregrineespresso.com/pages/contact",
+   "https://www.peregrineespresso.com/contact-us",
+   "https://www.peregrineespresso.com/about",
+   "https://www.peregrineespresso.com/about-us",
+   "https://www.peregrineespresso.com/pages/contact",
+   "https://www.peregrineespresso.com/find-us",
+   "https://www.peregrineespresso.com/info"
   ]
  },
  {
@@ -777,7 +811,8 @@
   "niche": "bakery",
   "urls": [
    "https://www.bakedandwired.com/",
-   "https://bakedandwired.com/pages/contact"
+   "https://bakedandwired.com/pages/contact",
+   "https://www.bakedandwired.com/pages/contact"
   ]
  },
  {
@@ -788,7 +823,8 @@
   "niche": "coffee_shop",
   "urls": [
    "https://www.houndstoothcoffee.com/",
-   "https://houndstoothcoffee.com/pages/contact"
+   "https://houndstoothcoffee.com/pages/contact",
+   "https://www.houndstoothcoffee.com/about"
   ]
  },
  {
@@ -931,7 +967,13 @@
   "niche": "coffee_shop",
   "urls": [
    "https://www.spillerpark.com/",
-   "https://spillerpark.com/pages/contact"
+   "https://spillerpark.com/pages/contact",
+   "https://www.spillerpark.com/contact-us",
+   "https://www.spillerpark.com/about",
+   "https://www.spillerpark.com/about-us",
+   "https://www.spillerpark.com/pages/contact",
+   "https://www.spillerpark.com/find-us",
+   "https://www.spillerpark.com/info"
   ]
  },
  {
@@ -964,7 +1006,12 @@
   "niche": "coffee_shop",
   "urls": [
    "https://condesacoffee.com/",
-   "https://condesacoffee.com/pages/contact"
+   "https://condesacoffee.com/pages/contact",
+   "https://condesacoffee.com/contact-us",
+   "https://condesacoffee.com/about",
+   "https://condesacoffee.com/about-us",
+   "https://condesacoffee.com/find-us",
+   "https://condesacoffee.com/info"
   ]
  },
  {
@@ -1437,7 +1484,8 @@
   "niche": "restaurant",
   "urls": [
    "https://www.republiquela.com/",
-   "https://republiquela.com/contact"
+   "https://republiquela.com/contact",
+   "https://www.republiquela.com/pages/contact"
   ]
  },
  {
@@ -1459,7 +1507,13 @@
   "niche": "restaurant",
   "urls": [
    "https://www.gjusta.com/",
-   "https://gjusta.com/pages/contact"
+   "https://gjusta.com/pages/contact",
+   "https://www.gjusta.com/contact-us",
+   "https://www.gjusta.com/about",
+   "https://www.gjusta.com/about-us",
+   "https://www.gjusta.com/pages/contact",
+   "https://www.gjusta.com/find-us",
+   "https://www.gjusta.com/info"
   ]
  },
  {
@@ -1481,7 +1535,13 @@
   "niche": "restaurant",
   "urls": [
    "https://www.nopasf.com/",
-   "https://nopasf.com/contact"
+   "https://nopasf.com/contact",
+   "https://www.nopasf.com/contact-us",
+   "https://www.nopasf.com/about",
+   "https://www.nopasf.com/about-us",
+   "https://www.nopasf.com/pages/contact",
+   "https://www.nopasf.com/find-us",
+   "https://www.nopasf.com/info"
   ]
  },
  {
@@ -1492,7 +1552,13 @@
   "niche": "restaurant",
   "urls": [
    "https://www.outerlandssf.com/",
-   "https://outerlandssf.com/pages/contact"
+   "https://outerlandssf.com/pages/contact",
+   "https://www.outerlandssf.com/contact-us",
+   "https://www.outerlandssf.com/about",
+   "https://www.outerlandssf.com/about-us",
+   "https://www.outerlandssf.com/pages/contact",
+   "https://www.outerlandssf.com/find-us",
+   "https://www.outerlandssf.com/info"
   ]
  },
  {
@@ -1503,7 +1569,13 @@
   "niche": "restaurant",
   "urls": [
    "https://www.canonseattle.com/",
-   "https://canonseattle.com/contact"
+   "https://canonseattle.com/contact",
+   "https://www.canonseattle.com/contact-us",
+   "https://www.canonseattle.com/about",
+   "https://www.canonseattle.com/about-us",
+   "https://www.canonseattle.com/pages/contact",
+   "https://www.canonseattle.com/find-us",
+   "https://www.canonseattle.com/info"
   ]
  },
  {
@@ -1547,7 +1619,12 @@
   "niche": "restaurant",
   "urls": [
    "https://www.michaelsgenuine.com/",
-   "https://michaelsgenuine.com/contact"
+   "https://michaelsgenuine.com/contact",
+   "https://www.michaelsgenuine.com/about",
+   "https://www.michaelsgenuine.com/about-us",
+   "https://www.michaelsgenuine.com/pages/contact",
+   "https://www.michaelsgenuine.com/find-us",
+   "https://www.michaelsgenuine.com/info"
   ]
  },
  {
@@ -1569,7 +1646,13 @@
   "niche": "restaurant",
   "urls": [
    "https://www.nixtataqueria.com/",
-   "https://nixtataqueria.com/pages/contact"
+   "https://nixtataqueria.com/pages/contact",
+   "https://www.nixtataqueria.com/contact-us",
+   "https://www.nixtataqueria.com/about",
+   "https://www.nixtataqueria.com/about-us",
+   "https://www.nixtataqueria.com/pages/contact",
+   "https://www.nixtataqueria.com/find-us",
+   "https://www.nixtataqueria.com/info"
   ]
  },
  {
@@ -1624,7 +1707,13 @@
   "niche": "restaurant",
   "urls": [
    "https://www.surayaphilly.com/",
-   "https://surayaphilly.com/contact"
+   "https://surayaphilly.com/contact",
+   "https://www.surayaphilly.com/contact-us",
+   "https://www.surayaphilly.com/about",
+   "https://www.surayaphilly.com/about-us",
+   "https://www.surayaphilly.com/pages/contact",
+   "https://www.surayaphilly.com/find-us",
+   "https://www.surayaphilly.com/info"
   ]
  },
  {
@@ -1723,7 +1812,13 @@
   "niche": "dessert_shop",
   "urls": [
    "https://www.dominiqueansel.com/",
-   "https://dominiqueansel.com/pages/contact"
+   "https://dominiqueansel.com/pages/contact",
+   "https://www.dominiqueansel.com/contact-us",
+   "https://www.dominiqueansel.com/about",
+   "https://www.dominiqueansel.com/about-us",
+   "https://www.dominiqueansel.com/pages/contact",
+   "https://www.dominiqueansel.com/find-us",
+   "https://www.dominiqueansel.com/info"
   ]
  },
  {
@@ -1756,7 +1851,13 @@
   "niche": "ice_cream_parlour",
   "urls": [
    "https://www.wanderlustcreamery.com/",
-   "https://wanderlustcreamery.com/pages/contact"
+   "https://wanderlustcreamery.com/pages/contact",
+   "https://www.wanderlustcreamery.com/contact-us",
+   "https://www.wanderlustcreamery.com/about",
+   "https://www.wanderlustcreamery.com/about-us",
+   "https://www.wanderlustcreamery.com/pages/contact",
+   "https://www.wanderlustcreamery.com/find-us",
+   "https://www.wanderlustcreamery.com/info"
   ]
  },
  {
@@ -1778,7 +1879,8 @@
   "niche": "dessert_shop",
   "urls": [
    "https://www.doughnutvault.com/",
-   "https://doughnutvault.com/pages/contact"
+   "https://doughnutvault.com/pages/contact",
+   "https://www.doughnutvault.com/about"
   ]
  },
  {
@@ -1789,7 +1891,12 @@
   "niche": "dessert_shop",
   "urls": [
    "https://doritedonuts.com/",
-   "https://doritedonuts.com/pages/contact"
+   "https://doritedonuts.com/pages/contact",
+   "https://doritedonuts.com/contact-us",
+   "https://doritedonuts.com/about",
+   "https://doritedonuts.com/about-us",
+   "https://doritedonuts.com/find-us",
+   "https://doritedonuts.com/info"
   ]
  },
  {
@@ -1800,7 +1907,13 @@
   "niche": "bakery",
   "urls": [
    "https://www.mrholmesbakehouse.com/",
-   "https://mrholmesbakehouse.com/pages/contact"
+   "https://mrholmesbakehouse.com/pages/contact",
+   "https://www.mrholmesbakehouse.com/contact-us",
+   "https://www.mrholmesbakehouse.com/about",
+   "https://www.mrholmesbakehouse.com/about-us",
+   "https://www.mrholmesbakehouse.com/pages/contact",
+   "https://www.mrholmesbakehouse.com/find-us",
+   "https://www.mrholmesbakehouse.com/info"
   ]
  },
  {
@@ -1844,7 +1957,9 @@
   "niche": "dessert_shop",
   "urls": [
    "https://www.unionsquaredonuts.com/",
-   "https://unionsquaredonuts.com/pages/contact"
+   "https://unionsquaredonuts.com/pages/contact",
+   "https://www.unionsquaredonuts.com/contact-us",
+   "https://www.unionsquaredonuts.com/about"
   ]
  },
  {
@@ -1866,7 +1981,8 @@
   "niche": "dessert_shop",
   "urls": [
    "https://www.firemandereks.com/",
-   "https://firemandereks.com/pages/contact"
+   "https://firemandereks.com/pages/contact",
+   "https://www.firemandereks.com/about"
   ]
  },
  {
@@ -1943,7 +2059,13 @@
   "niche": "ice_cream_parlour",
   "urls": [
    "https://www.weckerlys.com/",
-   "https://weckerlys.com/pages/contact"
+   "https://weckerlys.com/pages/contact",
+   "https://www.weckerlys.com/contact-us",
+   "https://www.weckerlys.com/about",
+   "https://www.weckerlys.com/about-us",
+   "https://www.weckerlys.com/pages/contact",
+   "https://www.weckerlys.com/find-us",
+   "https://www.weckerlys.com/info"
   ]
  },
  {
@@ -1954,7 +2076,13 @@
   "niche": "dessert_shop",
   "urls": [
    "https://www.dolcezzagelato.com/",
-   "https://dolcezzagelato.com/pages/contact"
+   "https://dolcezzagelato.com/pages/contact",
+   "https://www.dolcezzagelato.com/contact-us",
+   "https://www.dolcezzagelato.com/about",
+   "https://www.dolcezzagelato.com/about-us",
+   "https://www.dolcezzagelato.com/pages/contact",
+   "https://www.dolcezzagelato.com/find-us",
+   "https://www.dolcezzagelato.com/info"
   ]
  },
  {
@@ -1998,7 +2126,12 @@
   "niche": "bakery",
   "urls": [
    "https://dufflet.com/",
-   "https://dufflet.com/pages/contact"
+   "https://dufflet.com/pages/contact",
+   "https://dufflet.com/contact-us",
+   "https://dufflet.com/about",
+   "https://dufflet.com/about-us",
+   "https://dufflet.com/find-us",
+   "https://dufflet.com/info"
   ]
  },
  {
@@ -2031,7 +2164,12 @@
   "niche": "ice_cream_parlour",
   "urls": [
    "https://earnesticecream.com/",
-   "https://earnesticecream.com/pages/contact"
+   "https://earnesticecream.com/pages/contact",
+   "https://earnesticecream.com/contact-us",
+   "https://earnesticecream.com/about",
+   "https://earnesticecream.com/about-us",
+   "https://earnesticecream.com/find-us",
+   "https://earnesticecream.com/info"
   ]
  },
  {
@@ -2042,7 +2180,8 @@
   "niche": "ice_cream_parlour",
   "urls": [
    "https://villageicecream.com/",
-   "https://villageicecream.com/pages/contact"
+   "https://villageicecream.com/pages/contact",
+   "https://villageicecream.com/contact-us"
   ]
  },
  {
@@ -3495,7 +3634,13 @@
   "region": "intl",
   "niche": "ice_cream_parlour",
   "urls": [
-   "https://rainorshineicecream.com/"
+   "https://rainorshineicecream.com/",
+   "https://rainorshineicecream.com/contact-us",
+   "https://rainorshineicecream.com/about",
+   "https://rainorshineicecream.com/about-us",
+   "https://rainorshineicecream.com/pages/contact",
+   "https://rainorshineicecream.com/find-us",
+   "https://rainorshineicecream.com/info"
   ]
  },
  {
@@ -3565,7 +3710,13 @@
   "region": "intl",
   "niche": "ice_cream_parlour",
   "urls": [
-   "https://chaebanicecream.com/"
+   "https://chaebanicecream.com/",
+   "https://chaebanicecream.com/contact-us",
+   "https://chaebanicecream.com/about",
+   "https://chaebanicecream.com/about-us",
+   "https://chaebanicecream.com/pages/contact",
+   "https://chaebanicecream.com/find-us",
+   "https://chaebanicecream.com/info"
   ]
  },
  {
@@ -3585,7 +3736,13 @@
   "region": "intl",
   "niche": "bakery",
   "urls": [
-   "https://folepi.ca/"
+   "https://folepi.ca/",
+   "https://folepi.ca/contact-us",
+   "https://folepi.ca/about",
+   "https://folepi.ca/about-us",
+   "https://folepi.ca/pages/contact",
+   "https://folepi.ca/find-us",
+   "https://folepi.ca/info"
   ]
  },
  {
@@ -3635,7 +3792,13 @@
   "region": "intl",
   "niche": "restaurant",
   "urls": [
-   "https://gusto101.com/"
+   "https://gusto101.com/",
+   "https://gusto101.com/contact-us",
+   "https://gusto101.com/about",
+   "https://gusto101.com/about-us",
+   "https://gusto101.com/pages/contact",
+   "https://gusto101.com/find-us",
+   "https://gusto101.com/info"
   ]
  },
  {
