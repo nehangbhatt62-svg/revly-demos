@@ -2225,7 +2225,13 @@
   "niche": "restaurant",
   "urls": [
    "https://mamasita.com.au/",
-   "https://mamasita.com.au/contact"
+   "https://mamasita.com.au/contact",
+   "https://mamasita.com.au/contact-us",
+   "https://mamasita.com.au/about",
+   "https://mamasita.com.au/about-us",
+   "https://mamasita.com.au/pages/contact",
+   "https://mamasita.com.au/find-us",
+   "https://mamasita.com.au/info"
   ]
  },
  {
@@ -2236,7 +2242,12 @@
   "niche": "restaurant",
   "urls": [
    "https://codarestaurant.com.au/",
-   "https://codarestaurant.com.au/contact"
+   "https://codarestaurant.com.au/contact",
+   "https://codarestaurant.com.au/contact-us",
+   "https://codarestaurant.com.au/about-us",
+   "https://codarestaurant.com.au/pages/contact",
+   "https://codarestaurant.com.au/find-us",
+   "https://codarestaurant.com.au/info"
   ]
  },
  {
@@ -2280,7 +2291,13 @@
   "niche": "restaurant",
   "urls": [
    "https://pellegrinis.com.au/",
-   "https://pellegrinis.com.au/contact"
+   "https://pellegrinis.com.au/contact",
+   "https://pellegrinis.com.au/contact-us",
+   "https://pellegrinis.com.au/about",
+   "https://pellegrinis.com.au/about-us",
+   "https://pellegrinis.com.au/pages/contact",
+   "https://pellegrinis.com.au/find-us",
+   "https://pellegrinis.com.au/info"
   ]
  },
  {
@@ -2522,7 +2539,8 @@
   "niche": "bakery",
   "urls": [
    "https://bakerandcook.com/",
-   "https://bakerandcook.com/pages/contact"
+   "https://bakerandcook.com/pages/contact",
+   "https://bakerandcook.com/contact-us"
   ]
  },
  {
@@ -2709,7 +2727,13 @@
   "niche": "restaurant",
   "urls": [
    "https://clarkesdining.co.za/",
-   "https://clarkesdining.co.za/contact"
+   "https://clarkesdining.co.za/contact",
+   "https://clarkesdining.co.za/contact-us",
+   "https://clarkesdining.co.za/about",
+   "https://clarkesdining.co.za/about-us",
+   "https://clarkesdining.co.za/pages/contact",
+   "https://clarkesdining.co.za/find-us",
+   "https://clarkesdining.co.za/info"
   ]
  },
  {
@@ -2720,7 +2744,13 @@
   "niche": "restaurant",
   "urls": [
    "https://cafecaprice.co.za/",
-   "https://cafecaprice.co.za/contact"
+   "https://cafecaprice.co.za/contact",
+   "https://cafecaprice.co.za/contact-us",
+   "https://cafecaprice.co.za/about",
+   "https://cafecaprice.co.za/about-us",
+   "https://cafecaprice.co.za/pages/contact",
+   "https://cafecaprice.co.za/find-us",
+   "https://cafecaprice.co.za/info"
   ]
  },
  {
@@ -2764,7 +2794,13 @@
   "niche": "restaurant",
   "urls": [
    "https://amano.nz/",
-   "https://amano.nz/contact"
+   "https://amano.nz/contact",
+   "https://amano.nz/contact-us",
+   "https://amano.nz/about",
+   "https://amano.nz/about-us",
+   "https://amano.nz/pages/contact",
+   "https://amano.nz/find-us",
+   "https://amano.nz/info"
   ]
  },
  {
@@ -2786,7 +2822,13 @@
   "niche": "bakery",
   "urls": [
    "https://bestugly.co.nz/",
-   "https://bestugly.co.nz/contact"
+   "https://bestugly.co.nz/contact",
+   "https://bestugly.co.nz/contact-us",
+   "https://bestugly.co.nz/about",
+   "https://bestugly.co.nz/about-us",
+   "https://bestugly.co.nz/pages/contact",
+   "https://bestugly.co.nz/find-us",
+   "https://bestugly.co.nz/info"
   ]
  },
  {
@@ -2841,7 +2883,13 @@
   "niche": "restaurant",
   "urls": [
    "https://scarecrow.co.nz/",
-   "https://scarecrow.co.nz/contact"
+   "https://scarecrow.co.nz/contact",
+   "https://scarecrow.co.nz/contact-us",
+   "https://scarecrow.co.nz/about",
+   "https://scarecrow.co.nz/about-us",
+   "https://scarecrow.co.nz/pages/contact",
+   "https://scarecrow.co.nz/find-us",
+   "https://scarecrow.co.nz/info"
   ]
  },
  {
@@ -2984,7 +3032,13 @@
   "niche": "restaurant",
   "urls": [
    "https://highergroundmelbourne.com.au/",
-   "https://highergroundmelbourne.com.au/contact"
+   "https://highergroundmelbourne.com.au/contact",
+   "https://highergroundmelbourne.com.au/contact-us",
+   "https://highergroundmelbourne.com.au/about",
+   "https://highergroundmelbourne.com.au/about-us",
+   "https://highergroundmelbourne.com.au/pages/contact",
+   "https://highergroundmelbourne.com.au/find-us",
+   "https://highergroundmelbourne.com.au/info"
   ]
  },
  {
@@ -3006,7 +3060,13 @@
   "niche": "bakery",
   "urls": [
    "https://tartsanon.com.au/",
-   "https://tartsanon.com.au/contact"
+   "https://tartsanon.com.au/contact",
+   "https://tartsanon.com.au/contact-us",
+   "https://tartsanon.com.au/about",
+   "https://tartsanon.com.au/about-us",
+   "https://tartsanon.com.au/pages/contact",
+   "https://tartsanon.com.au/find-us",
+   "https://tartsanon.com.au/info"
   ]
  },
  {
@@ -3072,7 +3132,13 @@
   "niche": "bakery",
   "urls": [
    "https://francois.net.au/",
-   "https://francois.net.au/contact-us-3/"
+   "https://francois.net.au/contact-us-3/",
+   "https://francois.net.au/contact-us",
+   "https://francois.net.au/about",
+   "https://francois.net.au/about-us",
+   "https://francois.net.au/pages/contact",
+   "https://francois.net.au/find-us",
+   "https://francois.net.au/info"
   ]
  },
  {
@@ -3105,7 +3171,13 @@
   "niche": "restaurant",
   "urls": [
    "https://thepotluckclub.co.za/",
-   "https://thepotluckclub.co.za/contact"
+   "https://thepotluckclub.co.za/contact",
+   "https://thepotluckclub.co.za/contact-us",
+   "https://thepotluckclub.co.za/about",
+   "https://thepotluckclub.co.za/about-us",
+   "https://thepotluckclub.co.za/pages/contact",
+   "https://thepotluckclub.co.za/find-us",
+   "https://thepotluckclub.co.za/info"
   ]
  },
  {
@@ -3138,7 +3210,13 @@
   "niche": "restaurant",
   "urls": [
    "https://clarkesdining.co.za/",
-   "https://clarkesdining.co.za/contact"
+   "https://clarkesdining.co.za/contact",
+   "https://clarkesdining.co.za/contact-us",
+   "https://clarkesdining.co.za/about",
+   "https://clarkesdining.co.za/about-us",
+   "https://clarkesdining.co.za/pages/contact",
+   "https://clarkesdining.co.za/find-us",
+   "https://clarkesdining.co.za/info"
   ]
  },
  {
@@ -3158,7 +3236,13 @@
   "region": "intl",
   "niche": "restaurant",
   "urls": [
-   "https://thecoconutclub.sg/"
+   "https://thecoconutclub.sg/",
+   "https://thecoconutclub.sg/contact-us",
+   "https://thecoconutclub.sg/about",
+   "https://thecoconutclub.sg/about-us",
+   "https://thecoconutclub.sg/pages/contact",
+   "https://thecoconutclub.sg/find-us",
+   "https://thecoconutclub.sg/info"
   ]
  },
  {
@@ -3258,7 +3342,10 @@
   "region": "intl",
   "niche": "coffee_shop",
   "urls": [
-   "https://ritualcoffee.co.nz/"
+   "https://ritualcoffee.co.nz/",
+   "https://ritualcoffee.co.nz/about-us",
+   "https://ritualcoffee.co.nz/find-us",
+   "https://ritualcoffee.co.nz/info"
   ]
  },
  {
@@ -3438,7 +3525,13 @@
   "region": "au",
   "niche": "dessert_shop",
   "urls": [
-   "https://koidessertbar.com.au/"
+   "https://koidessertbar.com.au/",
+   "https://koidessertbar.com.au/contact-us",
+   "https://koidessertbar.com.au/about",
+   "https://koidessertbar.com.au/about-us",
+   "https://koidessertbar.com.au/pages/contact",
+   "https://koidessertbar.com.au/find-us",
+   "https://koidessertbar.com.au/info"
   ]
  },
  {
@@ -3858,7 +3951,8 @@
   "region": "intl",
   "niche": "bakery",
   "urls": [
-   "https://tessasbakery.co.za/"
+   "https://tessasbakery.co.za/",
+   "https://tessasbakery.co.za/pages/contact"
   ]
  },
  {
@@ -3898,7 +3992,8 @@
   "region": "intl",
   "niche": "coffee_shop",
   "urls": [
-   "https://sevenfortunes.com/"
+   "https://sevenfortunes.com/",
+   "https://sevenfortunes.com/pages/contact"
   ]
  },
  {
@@ -3918,7 +4013,9 @@
   "region": "intl",
   "niche": "coffee_shop",
   "urls": [
-   "https://theespressolab.com/"
+   "https://theespressolab.com/",
+   "https://theespressolab.com/contact-us",
+   "https://theespressolab.com/about-us"
   ]
  },
  {
@@ -3948,7 +4045,9 @@
   "region": "au",
   "niche": "dessert_shop",
   "urls": [
-   "https://www.kikidessert.com.au/"
+   "https://www.kikidessert.com.au/",
+   "https://www.kikidessert.com.au/contact-us",
+   "https://www.kikidessert.com.au/about"
   ]
  },
  {
@@ -3958,7 +4057,9 @@
   "region": "au",
   "niche": "restaurant",
   "urls": [
-   "https://shortgrain.com.au/"
+   "https://shortgrain.com.au/",
+   "https://shortgrain.com.au/about",
+   "https://shortgrain.com.au/pages/contact"
   ]
  },
  {
@@ -3968,7 +4069,13 @@
   "region": "au",
   "niche": "bakery",
   "urls": [
-   "https://www.marystreetbakery.com.au/"
+   "https://www.marystreetbakery.com.au/",
+   "https://www.marystreetbakery.com.au/contact-us",
+   "https://www.marystreetbakery.com.au/about",
+   "https://www.marystreetbakery.com.au/about-us",
+   "https://www.marystreetbakery.com.au/pages/contact",
+   "https://www.marystreetbakery.com.au/find-us",
+   "https://www.marystreetbakery.com.au/info"
   ]
  },
  {
@@ -3978,7 +4085,13 @@
   "region": "au",
   "niche": "ice_cream_parlour",
   "urls": [
-   "https://www.artandgogelato.com/"
+   "https://www.artandgogelato.com/",
+   "https://www.artandgogelato.com/contact-us",
+   "https://www.artandgogelato.com/about",
+   "https://www.artandgogelato.com/about-us",
+   "https://www.artandgogelato.com/pages/contact",
+   "https://www.artandgogelato.com/find-us",
+   "https://www.artandgogelato.com/info"
   ]
  },
  {
@@ -3988,7 +4101,13 @@
   "region": "au",
   "niche": "cafe",
   "urls": [
-   "https://bills.com.au/"
+   "https://bills.com.au/",
+   "https://bills.com.au/contact-us",
+   "https://bills.com.au/about",
+   "https://bills.com.au/about-us",
+   "https://bills.com.au/pages/contact",
+   "https://bills.com.au/find-us",
+   "https://bills.com.au/info"
   ]
  },
  {
@@ -4047,7 +4166,13 @@
   "city": "Cape Town",
   "niche": "restaurant",
   "urls": [
-   "https://www.fynrestaurant.com"
+   "https://www.fynrestaurant.com",
+   "https://www.fynrestaurant.com/contact-us",
+   "https://www.fynrestaurant.com/about",
+   "https://www.fynrestaurant.com/about-us",
+   "https://www.fynrestaurant.com/pages/contact",
+   "https://www.fynrestaurant.com/find-us",
+   "https://www.fynrestaurant.com/info"
   ]
  },
  {
@@ -4056,7 +4181,13 @@
   "city": "Cape Town",
   "niche": "restaurant",
   "urls": [
-   "https://salsify.co.za"
+   "https://salsify.co.za",
+   "https://salsify.co.za/contact-us",
+   "https://salsify.co.za/about",
+   "https://salsify.co.za/about-us",
+   "https://salsify.co.za/pages/contact",
+   "https://salsify.co.za/find-us",
+   "https://salsify.co.za/info"
   ]
  },
  {
@@ -4065,7 +4196,13 @@
   "city": "Cape Town",
   "niche": "cafe",
   "urls": [
-   "https://www.thestrangersclub.co.za"
+   "https://www.thestrangersclub.co.za",
+   "https://www.thestrangersclub.co.za/contact-us",
+   "https://www.thestrangersclub.co.za/about",
+   "https://www.thestrangersclub.co.za/about-us",
+   "https://www.thestrangersclub.co.za/pages/contact",
+   "https://www.thestrangersclub.co.za/find-us",
+   "https://www.thestrangersclub.co.za/info"
   ]
  },
  {
@@ -4083,7 +4220,13 @@
   "city": "Cape Town",
   "niche": "dessert_shop",
   "urls": [
-   "https://thedairyden.com"
+   "https://thedairyden.com",
+   "https://thedairyden.com/contact-us",
+   "https://thedairyden.com/about",
+   "https://thedairyden.com/about-us",
+   "https://thedairyden.com/pages/contact",
+   "https://thedairyden.com/find-us",
+   "https://thedairyden.com/info"
   ]
  },
  {
@@ -4093,7 +4236,12 @@
   "niche": "restaurant",
   "urls": [
    "https://www.kloofstreethouse.co.za",
-   "https://www.kloofstreethouse.co.za/contact"
+   "https://www.kloofstreethouse.co.za/contact",
+   "https://www.kloofstreethouse.co.za/contact-us",
+   "https://www.kloofstreethouse.co.za/about",
+   "https://www.kloofstreethouse.co.za/pages/contact",
+   "https://www.kloofstreethouse.co.za/find-us",
+   "https://www.kloofstreethouse.co.za/info"
   ]
  },
  {
@@ -4112,7 +4260,8 @@
   "niche": "cafe",
   "urls": [
    "https://betweenus.capetown",
-   "https://betweenus.capetown/contact-us"
+   "https://betweenus.capetown/contact-us",
+   "https://betweenus.capetown/pages/contact"
   ]
  },
  {
@@ -4169,7 +4318,13 @@
   "niche": "restaurant",
   "urls": [
    "https://marble.restaurant",
-   "https://marble.restaurant/contact"
+   "https://marble.restaurant/contact",
+   "https://marble.restaurant/contact-us",
+   "https://marble.restaurant/about",
+   "https://marble.restaurant/about-us",
+   "https://marble.restaurant/pages/contact",
+   "https://marble.restaurant/find-us",
+   "https://marble.restaurant/info"
   ]
  },
  {
@@ -4187,7 +4342,13 @@
   "city": "Johannesburg",
   "niche": "fast_food",
   "urls": [
-   "https://bgr.co.za"
+   "https://bgr.co.za",
+   "https://bgr.co.za/contact-us",
+   "https://bgr.co.za/about",
+   "https://bgr.co.za/about-us",
+   "https://bgr.co.za/pages/contact",
+   "https://bgr.co.za/find-us",
+   "https://bgr.co.za/info"
   ]
  },
  {
@@ -4207,7 +4368,13 @@
   "niche": "cafe",
   "urls": [
    "https://pantry.co.za",
-   "https://pantry.co.za/#contact_us"
+   "https://pantry.co.za/#contact_us",
+   "https://pantry.co.za/contact-us",
+   "https://pantry.co.za/about",
+   "https://pantry.co.za/about-us",
+   "https://pantry.co.za/pages/contact",
+   "https://pantry.co.za/find-us",
+   "https://pantry.co.za/info"
   ]
  },
  {
@@ -4217,7 +4384,12 @@
   "niche": "cafe",
   "urls": [
    "https://niceon4th.co.za",
-   "https://niceon4th.co.za/contact"
+   "https://niceon4th.co.za/contact",
+   "https://niceon4th.co.za/about",
+   "https://niceon4th.co.za/about-us",
+   "https://niceon4th.co.za/pages/contact",
+   "https://niceon4th.co.za/find-us",
+   "https://niceon4th.co.za/info"
   ]
  },
  {
@@ -4226,7 +4398,13 @@
   "city": "Johannesburg",
   "niche": "cafe",
   "urls": [
-   "https://warmandglad.com"
+   "https://warmandglad.com",
+   "https://warmandglad.com/contact-us",
+   "https://warmandglad.com/about",
+   "https://warmandglad.com/about-us",
+   "https://warmandglad.com/pages/contact",
+   "https://warmandglad.com/find-us",
+   "https://warmandglad.com/info"
   ]
  },
  {
@@ -4235,7 +4413,13 @@
   "city": "Johannesburg",
   "niche": "restaurant",
   "urls": [
-   "https://www.proudmary.co.za"
+   "https://www.proudmary.co.za",
+   "https://www.proudmary.co.za/contact-us",
+   "https://www.proudmary.co.za/about",
+   "https://www.proudmary.co.za/about-us",
+   "https://www.proudmary.co.za/pages/contact",
+   "https://www.proudmary.co.za/find-us",
+   "https://www.proudmary.co.za/info"
   ]
  },
  {
@@ -4263,7 +4447,13 @@
   "city": "Johannesburg",
   "niche": "cafe",
   "urls": [
-   "https://goddesscafe.co.za"
+   "https://goddesscafe.co.za",
+   "https://goddesscafe.co.za/contact-us",
+   "https://goddesscafe.co.za/about",
+   "https://goddesscafe.co.za/about-us",
+   "https://goddesscafe.co.za/pages/contact",
+   "https://goddesscafe.co.za/find-us",
+   "https://goddesscafe.co.za/info"
   ]
  },
  {
@@ -4272,7 +4462,13 @@
   "city": "Durban",
   "niche": "bakery",
   "urls": [
-   "https://www.glenwoodbakery.co.za"
+   "https://www.glenwoodbakery.co.za",
+   "https://www.glenwoodbakery.co.za/contact-us",
+   "https://www.glenwoodbakery.co.za/about",
+   "https://www.glenwoodbakery.co.za/about-us",
+   "https://www.glenwoodbakery.co.za/pages/contact",
+   "https://www.glenwoodbakery.co.za/find-us",
+   "https://www.glenwoodbakery.co.za/info"
   ]
  },
  {
@@ -4282,7 +4478,12 @@
   "niche": "cafe",
   "urls": [
    "https://surfriders.co.za",
-   "https://surfriders.co.za/contact-us"
+   "https://surfriders.co.za/contact-us",
+   "https://surfriders.co.za/about",
+   "https://surfriders.co.za/about-us",
+   "https://surfriders.co.za/pages/contact",
+   "https://surfriders.co.za/find-us",
+   "https://surfriders.co.za/info"
   ]
  },
  {
@@ -4292,7 +4493,8 @@
   "niche": "restaurant",
   "urls": [
    "https://9thavenue.co.za",
-   "https://9thavenue.co.za/contact"
+   "https://9thavenue.co.za/contact",
+   "https://9thavenue.co.za/pages/contact"
   ]
  },
  {
@@ -4301,7 +4503,13 @@
   "city": "Durban",
   "niche": "dessert_shop",
   "urls": [
-   "https://www.sugarlicious.co.za"
+   "https://www.sugarlicious.co.za",
+   "https://www.sugarlicious.co.za/contact-us",
+   "https://www.sugarlicious.co.za/about",
+   "https://www.sugarlicious.co.za/about-us",
+   "https://www.sugarlicious.co.za/pages/contact",
+   "https://www.sugarlicious.co.za/find-us",
+   "https://www.sugarlicious.co.za/info"
   ]
  },
  {
@@ -4388,7 +4596,8 @@
   "niche": "restaurant",
   "urls": [
    "https://postandpepper.co.za",
-   "https://postandpepper.co.za/contact"
+   "https://postandpepper.co.za/contact",
+   "https://postandpepper.co.za/pages/contact"
   ]
  },
  {
@@ -4397,7 +4606,8 @@
   "city": "Stellenbosch",
   "niche": "cafe",
   "urls": [
-   "https://www.smittencafe.co.za"
+   "https://www.smittencafe.co.za",
+   "https://www.smittencafe.co.za/about"
   ]
  },
  {
@@ -4407,7 +4617,13 @@
   "niche": "bakery",
   "urls": [
    "https://schoon.co.za",
-   "https://schoon.co.za#contact"
+   "https://schoon.co.za#contact",
+   "https://schoon.co.za/contact-us",
+   "https://schoon.co.za/about",
+   "https://schoon.co.za/about-us",
+   "https://schoon.co.za/pages/contact",
+   "https://schoon.co.za/find-us",
+   "https://schoon.co.za/info"
   ]
  },
  {
@@ -4417,7 +4633,8 @@
   "niche": "restaurant",
   "urls": [
    "https://fatbutcher.co.za",
-   "https://fatbutcher.co.za/contact-us"
+   "https://fatbutcher.co.za/contact-us",
+   "https://fatbutcher.co.za/pages/contact"
   ]
  },
  {
@@ -4427,7 +4644,13 @@
   "niche": "restaurant",
   "urls": [
    "https://basicbistro.co.za",
-   "https://basicbistro.co.za/contact"
+   "https://basicbistro.co.za/contact",
+   "https://basicbistro.co.za/contact-us",
+   "https://basicbistro.co.za/about",
+   "https://basicbistro.co.za/about-us",
+   "https://basicbistro.co.za/pages/contact",
+   "https://basicbistro.co.za/find-us",
+   "https://basicbistro.co.za/info"
   ]
  },
  {
@@ -4436,7 +4659,13 @@
   "city": "Stellenbosch",
   "niche": "restaurant",
   "urls": [
-   "https://duskrestaurant.co.za"
+   "https://duskrestaurant.co.za",
+   "https://duskrestaurant.co.za/contact-us",
+   "https://duskrestaurant.co.za/about",
+   "https://duskrestaurant.co.za/about-us",
+   "https://duskrestaurant.co.za/pages/contact",
+   "https://duskrestaurant.co.za/find-us",
+   "https://duskrestaurant.co.za/info"
   ]
  },
  {
@@ -4446,7 +4675,13 @@
   "niche": "restaurant",
   "urls": [
    "https://kleinezalze.co.za",
-   "https://kleinezalze.co.za/contact"
+   "https://kleinezalze.co.za/contact",
+   "https://kleinezalze.co.za/contact-us",
+   "https://kleinezalze.co.za/about",
+   "https://kleinezalze.co.za/about-us",
+   "https://kleinezalze.co.za/pages/contact",
+   "https://kleinezalze.co.za/find-us",
+   "https://kleinezalze.co.za/info"
   ]
  },
  {
@@ -4466,7 +4701,13 @@
   "niche": "restaurant",
   "urls": [
    "https://bertusbasson.com",
-   "https://bertusbasson.com/contact"
+   "https://bertusbasson.com/contact",
+   "https://bertusbasson.com/contact-us",
+   "https://bertusbasson.com/about",
+   "https://bertusbasson.com/about-us",
+   "https://bertusbasson.com/pages/contact",
+   "https://bertusbasson.com/find-us",
+   "https://bertusbasson.com/info"
   ]
  },
  {
@@ -4476,7 +4717,8 @@
   "niche": "restaurant",
   "urls": [
    "https://rustenvrede.com",
-   "https://rustenvrede.com/contact-us"
+   "https://rustenvrede.com/contact-us",
+   "https://rustenvrede.com/pages/contact"
   ]
  },
  {
@@ -4486,7 +4728,8 @@
   "niche": "restaurant",
   "urls": [
    "https://www.jordanwines.com",
-   "https://www.jordanwines.com/contact"
+   "https://www.jordanwines.com/contact",
+   "https://www.jordanwines.com/pages/contact"
   ]
  },
  {
@@ -4515,7 +4758,12 @@
   "niche": "bakery",
   "urls": [
    "https://cakesandbakes.ae/",
-   "https://cakesandbakes.ae/contact-us"
+   "https://cakesandbakes.ae/contact-us",
+   "https://cakesandbakes.ae/about",
+   "https://cakesandbakes.ae/about-us",
+   "https://cakesandbakes.ae/pages/contact",
+   "https://cakesandbakes.ae/find-us",
+   "https://cakesandbakes.ae/info"
   ]
  },
  {
@@ -4535,7 +4783,8 @@
   "niche": "bakery",
   "urls": [
    "https://aprilsbakery.ae/",
-   "https://aprilsbakery.ae/contact-us"
+   "https://aprilsbakery.ae/contact-us",
+   "https://aprilsbakery.ae/about-us"
   ]
  },
  {
@@ -4574,7 +4823,12 @@
   "niche": "cafe",
   "urls": [
    "https://hamptonsdubai.com/",
-   "https://hamptonsdubai.com/contact-us"
+   "https://hamptonsdubai.com/contact-us",
+   "https://hamptonsdubai.com/about",
+   "https://hamptonsdubai.com/about-us",
+   "https://hamptonsdubai.com/pages/contact",
+   "https://hamptonsdubai.com/find-us",
+   "https://hamptonsdubai.com/info"
   ]
  },
  {
@@ -4630,7 +4884,13 @@
   "city": "Abu Dhabi",
   "niche": "cafe",
   "urls": [
-   "https://arthousecafe.smartcardsuae.com/"
+   "https://arthousecafe.smartcardsuae.com/",
+   "https://arthousecafe.smartcardsuae.com/contact-us",
+   "https://arthousecafe.smartcardsuae.com/about",
+   "https://arthousecafe.smartcardsuae.com/about-us",
+   "https://arthousecafe.smartcardsuae.com/pages/contact",
+   "https://arthousecafe.smartcardsuae.com/find-us",
+   "https://arthousecafe.smartcardsuae.com/info"
   ]
  },
  {
@@ -4651,7 +4911,13 @@
   "niche": "cafe",
   "urls": [
    "https://cassette.ae/",
-   "https://cassette.ae/contact"
+   "https://cassette.ae/contact",
+   "https://cassette.ae/contact-us",
+   "https://cassette.ae/about",
+   "https://cassette.ae/about-us",
+   "https://cassette.ae/pages/contact",
+   "https://cassette.ae/find-us",
+   "https://cassette.ae/info"
   ]
  },
  {
@@ -4673,7 +4939,13 @@
   "niche": "cafe",
   "urls": [
    "https://www.sevaexperience.com/",
-   "https://www.sevaexperience.com/contact"
+   "https://www.sevaexperience.com/contact",
+   "https://www.sevaexperience.com/contact-us",
+   "https://www.sevaexperience.com/about",
+   "https://www.sevaexperience.com/about-us",
+   "https://www.sevaexperience.com/pages/contact",
+   "https://www.sevaexperience.com/find-us",
+   "https://www.sevaexperience.com/info"
   ]
  },
  {
@@ -4684,7 +4956,13 @@
   "niche": "ice_cream_parlour",
   "urls": [
    "https://momolato.com/",
-   "https://momolato.com/contact"
+   "https://momolato.com/contact",
+   "https://momolato.com/contact-us",
+   "https://momolato.com/about",
+   "https://momolato.com/about-us",
+   "https://momolato.com/pages/contact",
+   "https://momolato.com/find-us",
+   "https://momolato.com/info"
   ]
  },
  {
@@ -4695,7 +4973,13 @@
   "niche": "cafe",
   "urls": [
    "https://www.thebetterhalf.sg/",
-   "https://www.thebetterhalf.sg/contact"
+   "https://www.thebetterhalf.sg/contact",
+   "https://www.thebetterhalf.sg/contact-us",
+   "https://www.thebetterhalf.sg/about",
+   "https://www.thebetterhalf.sg/about-us",
+   "https://www.thebetterhalf.sg/pages/contact",
+   "https://www.thebetterhalf.sg/find-us",
+   "https://www.thebetterhalf.sg/info"
   ]
  },
  {
@@ -4706,7 +4990,13 @@
   "niche": "bakery",
   "urls": [
    "https://www.motherdough.com.sg/",
-   "https://www.motherdough.com.sg/contact"
+   "https://www.motherdough.com.sg/contact",
+   "https://www.motherdough.com.sg/contact-us",
+   "https://www.motherdough.com.sg/about",
+   "https://www.motherdough.com.sg/about-us",
+   "https://www.motherdough.com.sg/pages/contact",
+   "https://www.motherdough.com.sg/find-us",
+   "https://www.motherdough.com.sg/info"
   ]
  },
  {
@@ -4717,7 +5007,13 @@
   "niche": "bakery",
   "urls": [
    "https://www.lalevain.com/",
-   "https://www.lalevain.com/contact"
+   "https://www.lalevain.com/contact",
+   "https://www.lalevain.com/contact-us",
+   "https://www.lalevain.com/about",
+   "https://www.lalevain.com/about-us",
+   "https://www.lalevain.com/pages/contact",
+   "https://www.lalevain.com/find-us",
+   "https://www.lalevain.com/info"
   ]
  },
  {
@@ -4728,7 +5024,8 @@
   "niche": "ice_cream_parlour",
   "urls": [
    "https://www.dopadopacreamery.com/",
-   "https://www.dopadopacreamery.com/contact"
+   "https://www.dopadopacreamery.com/contact",
+   "https://www.dopadopacreamery.com/about"
   ]
  },
  {
@@ -4739,7 +5036,8 @@
   "niche": "coffee_shop",
   "urls": [
    "https://maxicoffeebar.com/",
-   "https://maxicoffeebar.com/contact"
+   "https://maxicoffeebar.com/contact",
+   "https://maxicoffeebar.com/find-us"
   ]
  },
  {
@@ -4750,7 +5048,9 @@
   "niche": "cafe",
   "urls": [
    "https://www.oldhencoffee.com/",
-   "https://www.oldhencoffee.com/contact"
+   "https://www.oldhencoffee.com/contact",
+   "https://www.oldhencoffee.com/contact-us",
+   "https://www.oldhencoffee.com/about-us"
   ]
  },
  {
@@ -4761,7 +5061,13 @@
   "niche": "cafe",
   "urls": [
    "https://percolate.sg/",
-   "https://percolate.sg/contact"
+   "https://percolate.sg/contact",
+   "https://percolate.sg/contact-us",
+   "https://percolate.sg/about",
+   "https://percolate.sg/about-us",
+   "https://percolate.sg/pages/contact",
+   "https://percolate.sg/find-us",
+   "https://percolate.sg/info"
   ]
  },
  {
@@ -4772,7 +5078,13 @@
   "niche": "coffee_shop",
   "urls": [
    "https://glyphsupply.co/",
-   "https://glyphsupply.co/contact"
+   "https://glyphsupply.co/contact",
+   "https://glyphsupply.co/contact-us",
+   "https://glyphsupply.co/about",
+   "https://glyphsupply.co/about-us",
+   "https://glyphsupply.co/pages/contact",
+   "https://glyphsupply.co/find-us",
+   "https://glyphsupply.co/info"
   ]
  },
  {
@@ -4783,7 +5095,8 @@
   "niche": "cafe",
   "urls": [
    "https://www.wildseedcafe.sg/",
-   "https://www.wildseedcafe.sg/contact"
+   "https://www.wildseedcafe.sg/contact",
+   "https://www.wildseedcafe.sg/pages/contact"
   ]
  },
  {
@@ -4882,7 +5195,9 @@
   "niche": "cafe",
   "urls": [
    "https://whiskandpaddle.com.sg/",
-   "https://whiskandpaddle.com.sg/contact"
+   "https://whiskandpaddle.com.sg/contact",
+   "https://whiskandpaddle.com.sg/contact-us",
+   "https://whiskandpaddle.com.sg/pages/contact"
   ]
  },
  {
@@ -5025,7 +5340,13 @@
   "niche": "ice_cream_parlour",
   "urls": [
    "https://www.tomspalette.com.sg/",
-   "https://www.tomspalette.com.sg/contact"
+   "https://www.tomspalette.com.sg/contact",
+   "https://www.tomspalette.com.sg/contact-us",
+   "https://www.tomspalette.com.sg/about",
+   "https://www.tomspalette.com.sg/about-us",
+   "https://www.tomspalette.com.sg/pages/contact",
+   "https://www.tomspalette.com.sg/find-us",
+   "https://www.tomspalette.com.sg/info"
   ]
  },
  {
@@ -5047,7 +5368,13 @@
   "niche": "cafe",
   "urls": [
    "https://boho-x.com/",
-   "https://boho-x.com/contact"
+   "https://boho-x.com/contact",
+   "https://boho-x.com/contact-us",
+   "https://boho-x.com/about",
+   "https://boho-x.com/about-us",
+   "https://boho-x.com/pages/contact",
+   "https://boho-x.com/find-us",
+   "https://boho-x.com/info"
   ]
  },
  {
@@ -5069,7 +5396,8 @@
   "niche": "restaurant",
   "urls": [
    "https://3fils.com/",
-   "https://3fils.com/contact"
+   "https://3fils.com/contact",
+   "https://3fils.com/about"
   ]
  },
  {
@@ -5080,7 +5408,9 @@
   "niche": "restaurant",
   "urls": [
    "https://boca.ae/",
-   "https://boca.ae/contact"
+   "https://boca.ae/contact",
+   "https://boca.ae/about",
+   "https://boca.ae/about-us"
   ]
  },
  {
@@ -5091,7 +5421,13 @@
   "niche": "restaurant",
   "urls": [
    "https://11woodfire.com/",
-   "https://11woodfire.com/contact"
+   "https://11woodfire.com/contact",
+   "https://11woodfire.com/contact-us",
+   "https://11woodfire.com/about",
+   "https://11woodfire.com/about-us",
+   "https://11woodfire.com/pages/contact",
+   "https://11woodfire.com/find-us",
+   "https://11woodfire.com/info"
   ]
  },
  {
@@ -5102,7 +5438,9 @@
   "niche": "cafe",
   "urls": [
    "https://mittsandtrays.com/",
-   "https://mittsandtrays.com/contact"
+   "https://mittsandtrays.com/contact",
+   "https://mittsandtrays.com/contact-us",
+   "https://mittsandtrays.com/pages/contact"
   ]
  },
  {
@@ -5146,7 +5484,8 @@
   "niche": "bakery",
   "urls": [
    "https://www.pekoeteabar.com/",
-   "https://www.pekoeteabar.com/contact"
+   "https://www.pekoeteabar.com/contact",
+   "https://www.pekoeteabar.com/contact-us"
   ]
  },
  {
@@ -5179,7 +5518,13 @@
   "niche": "sweet_shop",
   "urls": [
    "https://www.alsultansweets.ae/",
-   "https://www.alsultansweets.ae/contact"
+   "https://www.alsultansweets.ae/contact",
+   "https://www.alsultansweets.ae/contact-us",
+   "https://www.alsultansweets.ae/about",
+   "https://www.alsultansweets.ae/about-us",
+   "https://www.alsultansweets.ae/pages/contact",
+   "https://www.alsultansweets.ae/find-us",
+   "https://www.alsultansweets.ae/info"
   ]
  },
  {
@@ -5267,7 +5612,13 @@
   "niche": "cafe",
   "urls": [
    "https://www.courtyard-uae.com/boston-lane/",
-   "https://www.courtyard-uae.com/boston-lane/contact"
+   "https://www.courtyard-uae.com/boston-lane/contact",
+   "https://www.courtyard-uae.com/boston-lane/contact-us",
+   "https://www.courtyard-uae.com/boston-lane/about",
+   "https://www.courtyard-uae.com/boston-lane/about-us",
+   "https://www.courtyard-uae.com/boston-lane/pages/contact",
+   "https://www.courtyard-uae.com/boston-lane/find-us",
+   "https://www.courtyard-uae.com/boston-lane/info"
   ]
  },
  {
@@ -5333,7 +5684,9 @@
   "niche": "cafe",
   "urls": [
    "https://www.thelimetreecafe.com/",
-   "https://www.thelimetreecafe.com/contact"
+   "https://www.thelimetreecafe.com/contact",
+   "https://www.thelimetreecafe.com/contact-us",
+   "https://www.thelimetreecafe.com/about-us"
   ]
  },
  {
@@ -5344,7 +5697,13 @@
   "niche": "cafe",
   "urls": [
    "https://www.arrowsparrows.com/",
-   "https://www.arrowsparrows.com/contact"
+   "https://www.arrowsparrows.com/contact",
+   "https://www.arrowsparrows.com/contact-us",
+   "https://www.arrowsparrows.com/about",
+   "https://www.arrowsparrows.com/about-us",
+   "https://www.arrowsparrows.com/pages/contact",
+   "https://www.arrowsparrows.com/find-us",
+   "https://www.arrowsparrows.com/info"
   ]
  },
  {
@@ -5355,7 +5714,13 @@
   "niche": "cafe",
   "urls": [
    "https://www.apricotdubai.com/",
-   "https://www.apricotdubai.com/contact"
+   "https://www.apricotdubai.com/contact",
+   "https://www.apricotdubai.com/contact-us",
+   "https://www.apricotdubai.com/about",
+   "https://www.apricotdubai.com/about-us",
+   "https://www.apricotdubai.com/pages/contact",
+   "https://www.apricotdubai.com/find-us",
+   "https://www.apricotdubai.com/info"
   ]
  },
  {
@@ -5366,7 +5731,8 @@
   "niche": "dessert_shop",
   "urls": [
    "https://www.taniasteahouse.com/",
-   "https://www.taniasteahouse.com/contact"
+   "https://www.taniasteahouse.com/contact",
+   "https://www.taniasteahouse.com/about"
   ]
  },
  {
@@ -5377,7 +5743,8 @@
   "niche": "dessert_shop",
   "urls": [
    "https://www.browniepointuae.com/",
-   "https://www.browniepointuae.com/contact"
+   "https://www.browniepointuae.com/contact",
+   "https://www.browniepointuae.com/contact-us"
   ]
  },
  {
@@ -5388,7 +5755,11 @@
   "niche": "juice_bar",
   "urls": [
    "https://juiceworld.ae/",
-   "https://juiceworld.ae/contact"
+   "https://juiceworld.ae/contact",
+   "https://juiceworld.ae/about",
+   "https://juiceworld.ae/about-us",
+   "https://juiceworld.ae/find-us",
+   "https://juiceworld.ae/info"
   ]
  },
  {
@@ -5581,7 +5952,8 @@
   "niche": "restaurant",
   "urls": [
    "https://www.savoey.co.th/",
-   "https://www.savoey.co.th/contact"
+   "https://www.savoey.co.th/contact",
+   "https://www.savoey.co.th/pages/contact"
   ]
  },
  {
@@ -5603,7 +5975,8 @@
   "niche": "restaurant",
   "urls": [
    "https://khuaklingpaksod.com/",
-   "https://khuaklingpaksod.com/contact"
+   "https://khuaklingpaksod.com/contact",
+   "https://khuaklingpaksod.com/pages/contact"
   ]
  },
  {
@@ -5758,7 +6131,11 @@
   "niche": "cafe",
   "urls": [
    "https://www.cafefrank.com/",
-   "https://www.cafefrank.com/contact"
+   "https://www.cafefrank.com/contact",
+   "https://www.cafefrank.com/contact-us",
+   "https://www.cafefrank.com/about-us",
+   "https://www.cafefrank.com/find-us",
+   "https://www.cafefrank.com/info"
   ]
  },
  {
@@ -5791,7 +6168,12 @@
   "niche": "coffee_shop",
   "urls": [
    "https://www.kamilicoffee.co.za/",
-   "https://www.kamilicoffee.co.za/contact"
+   "https://www.kamilicoffee.co.za/contact",
+   "https://www.kamilicoffee.co.za/contact-us",
+   "https://www.kamilicoffee.co.za/about-us",
+   "https://www.kamilicoffee.co.za/pages/contact",
+   "https://www.kamilicoffee.co.za/find-us",
+   "https://www.kamilicoffee.co.za/info"
   ]
  },
  {
@@ -5824,7 +6206,8 @@
   "niche": "coffee_shop",
   "urls": [
    "https://buitenverwachting.com/coffee-bloc/",
-   "https://buitenverwachting.com/coffee-bloc/contact"
+   "https://buitenverwachting.com/coffee-bloc/contact",
+   "https://buitenverwachting.com/coffee-bloc/pages/contact"
   ]
  },
  {
@@ -5868,7 +6251,9 @@
   "niche": "coffee_shop",
   "urls": [
    "https://www.elgreeyo.co.za/",
-   "https://www.elgreeyo.co.za/contact"
+   "https://www.elgreeyo.co.za/contact",
+   "https://www.elgreeyo.co.za/contact-us",
+   "https://www.elgreeyo.co.za/pages/contact"
   ]
  },
  {
@@ -6011,7 +6396,13 @@
   "niche": "restaurant",
   "urls": [
    "https://newmarkhotels.com/dining/ginja-restaurant/",
-   "https://newmarkhotels.com/dining/ginja-restaurant/contact"
+   "https://newmarkhotels.com/dining/ginja-restaurant/contact",
+   "https://newmarkhotels.com/dining/ginja-restaurant/contact-us",
+   "https://newmarkhotels.com/dining/ginja-restaurant/about",
+   "https://newmarkhotels.com/dining/ginja-restaurant/about-us",
+   "https://newmarkhotels.com/dining/ginja-restaurant/pages/contact",
+   "https://newmarkhotels.com/dining/ginja-restaurant/find-us",
+   "https://newmarkhotels.com/dining/ginja-restaurant/info"
   ]
  },
  {
@@ -6033,7 +6424,8 @@
   "niche": "restaurant",
   "urls": [
    "https://mitchellsalehouse.co.za/",
-   "https://mitchellsalehouse.co.za/contact"
+   "https://mitchellsalehouse.co.za/contact",
+   "https://mitchellsalehouse.co.za/pages/contact"
   ]
  },
  {
@@ -6044,7 +6436,13 @@
   "niche": "restaurant",
   "urls": [
    "https://www.ferrymans.co.za/",
-   "https://www.ferrymans.co.za/contact"
+   "https://www.ferrymans.co.za/contact",
+   "https://www.ferrymans.co.za/contact-us",
+   "https://www.ferrymans.co.za/about",
+   "https://www.ferrymans.co.za/about-us",
+   "https://www.ferrymans.co.za/pages/contact",
+   "https://www.ferrymans.co.za/find-us",
+   "https://www.ferrymans.co.za/info"
   ]
  },
  {
@@ -6066,7 +6464,9 @@
   "niche": "restaurant",
   "urls": [
    "https://beluga.co.za/",
-   "https://beluga.co.za/contact"
+   "https://beluga.co.za/contact",
+   "https://beluga.co.za/contact-us",
+   "https://beluga.co.za/pages/contact"
   ]
  },
  {
@@ -6077,7 +6477,9 @@
   "niche": "restaurant",
   "urls": [
    "https://greensrestaurants.co.za/",
-   "https://greensrestaurants.co.za/contact"
+   "https://greensrestaurants.co.za/contact",
+   "https://greensrestaurants.co.za/about",
+   "https://greensrestaurants.co.za/pages/contact"
   ]
  },
  {
@@ -6088,7 +6490,13 @@
   "niche": "restaurant",
   "urls": [
    "https://www.johndorys.com/za/find-a-restaurant/western-cape/century-city/john-dory's-century-city/",
-   "https://www.johndorys.com/za/find-a-restaurant/western-cape/century-city/john-dory's-century-city/contact"
+   "https://www.johndorys.com/za/find-a-restaurant/western-cape/century-city/john-dory's-century-city/contact",
+   "https://www.johndorys.com/za/find-a-restaurant/western-cape/century-city/john-dory's-century-city/contact-us",
+   "https://www.johndorys.com/za/find-a-restaurant/western-cape/century-city/john-dory's-century-city/about",
+   "https://www.johndorys.com/za/find-a-restaurant/western-cape/century-city/john-dory's-century-city/about-us",
+   "https://www.johndorys.com/za/find-a-restaurant/western-cape/century-city/john-dory's-century-city/pages/contact",
+   "https://www.johndorys.com/za/find-a-restaurant/western-cape/century-city/john-dory's-century-city/find-us",
+   "https://www.johndorys.com/za/find-a-restaurant/western-cape/century-city/john-dory's-century-city/info"
   ]
  },
  {
@@ -6099,7 +6507,13 @@
   "niche": "restaurant",
   "urls": [
    "https://fynkos.co.za/",
-   "https://fynkos.co.za/contact"
+   "https://fynkos.co.za/contact",
+   "https://fynkos.co.za/contact-us",
+   "https://fynkos.co.za/about",
+   "https://fynkos.co.za/about-us",
+   "https://fynkos.co.za/pages/contact",
+   "https://fynkos.co.za/find-us",
+   "https://fynkos.co.za/info"
   ]
  },
  {
@@ -6110,7 +6524,11 @@
   "niche": "restaurant",
   "urls": [
    "https://nelsons-eye.co.za/",
-   "https://nelsons-eye.co.za/contact"
+   "https://nelsons-eye.co.za/contact",
+   "https://nelsons-eye.co.za/contact-us",
+   "https://nelsons-eye.co.za/about-us",
+   "https://nelsons-eye.co.za/find-us",
+   "https://nelsons-eye.co.za/info"
   ]
  },
  {
@@ -6121,7 +6539,8 @@
   "niche": "restaurant",
   "urls": [
    "https://www.marinerswharf.co.za/",
-   "https://www.marinerswharf.co.za/contact"
+   "https://www.marinerswharf.co.za/contact",
+   "https://www.marinerswharf.co.za/pages/contact"
   ]
  }
 ]
