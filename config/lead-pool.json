@@ -6542,5 +6542,335 @@
    "https://www.marinerswharf.co.za/contact",
    "https://www.marinerswharf.co.za/pages/contact"
   ]
+ },
+ {
+  "name": "Spread & Co.",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "cafe",
+  "urls": [
+   "https://spreadandco.com/",
+   "https://spreadandco.com/contact"
+  ]
+ },
+ {
+  "name": "Teal House Coffee & Bakery",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://tealhouse.com/",
+   "https://tealhouse.com/contact"
+  ]
+ },
+ {
+  "name": "Cenote Cafe",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "cafe",
+  "urls": [
+   "https://cenoteaustin.com/",
+   "https://cenoteaustin.com/contact"
+  ]
+ },
+ {
+  "name": "Austin Tea Xchange Cafe",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "cafe",
+  "urls": [
+   "https://www.austinteaxchange.com/",
+   "https://www.austinteaxchange.com/contact"
+  ]
+ },
+ {
+  "name": "Cuppa Austin Coffee",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.cuppaaustin.com/",
+   "https://www.cuppaaustin.com/contact"
+  ]
+ },
+ {
+  "name": "Bennu Coffee",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://bennucoffee.com/",
+   "https://bennucoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Kick Butt Coffee",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://kickbuttcoffee.com/",
+   "https://kickbuttcoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Cannon Coffee",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.cannoncoffeetx.com/",
+   "https://www.cannoncoffeetx.com/contact"
+  ]
+ },
+ {
+  "name": "Twisted Croissant",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://twistedcroissant.com/",
+   "https://twistedcroissant.com/contact"
+  ]
+ },
+ {
+  "name": "Bakeshop",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://bakeshoppdx.com/",
+   "https://bakeshoppdx.com/contact"
+  ]
+ },
+ {
+  "name": "Hideaway Bakery",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://hideawaybakery.com/",
+   "https://hideawaybakery.com/contact"
+  ]
+ },
+ {
+  "name": "Queen City Collective Coffee",
+  "city": "Denver, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://queencitycollectivecoffee.com/",
+   "https://queencitycollectivecoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Corvus Coffee Roasters",
+  "city": "Denver, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.corvuscoffee.com/",
+   "https://www.corvuscoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Alliance Bakery",
+  "city": "Chicago, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://alliancebakery.com/",
+   "https://alliancebakery.com/contact"
+  ]
+ },
+ {
+  "name": "Cadinho Bakery",
+  "city": "Chicago, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://cadinhobakery.com/",
+   "https://cadinhobakery.com/contact"
+  ]
+ },
+ {
+  "name": "Metric Coffee",
+  "city": "Chicago, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://metriccoffee.com/",
+   "https://metriccoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Loretta's Bakery Cafe",
+  "city": "Philadelphia, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://lorettasphilly.com/",
+   "https://lorettasphilly.com/contact"
+  ]
+ },
+ {
+  "name": "Elixr Coffee Roasters",
+  "city": "Philadelphia, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://elixrcoffee.com/",
+   "https://elixrcoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Stay Golden",
+  "city": "Nashville, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "cafe",
+  "urls": [
+   "https://staygolden.com/",
+   "https://staygolden.com/contact"
+  ]
+ },
+ {
+  "name": "Figure 8 Coffee Purveyors",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://figure8coffeepurveyors.com/",
+   "https://figure8coffeepurveyors.com/contact"
+  ]
+ },
+ {
+  "name": "Palomino Coffee",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://palominocoffee.com/",
+   "https://palominocoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Desnudo Coffee",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://desnudocoffee.com/",
+   "https://desnudocoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Mehri's Cafe and Bakery",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "cafe",
+  "urls": [
+   "https://www.mehris.com/",
+   "https://www.mehris.com/contact"
+  ]
+ },
+ {
+  "name": "Bella's Italian Bakery",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://bellasitalianbakery.com/",
+   "https://bellasitalianbakery.com/contact"
+  ]
+ },
+ {
+  "name": "Keeper Coffee",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://keepercoffee.com/",
+   "https://keepercoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Fairlane Coffee",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://fairlanecoffee.com/",
+   "https://fairlanecoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Tabor Bread",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://taborbread.com/",
+   "https://taborbread.com/contact"
+  ]
+ },
+ {
+  "name": "Wooden Spoon Caf\u00e9 & Bakery",
+  "city": "Denver, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "cafe",
+  "urls": [
+   "https://woodenspoondenver.com/",
+   "https://woodenspoondenver.com/contact"
+  ]
+ },
+ {
+  "name": "La Fillette Bakery",
+  "city": "Denver, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://lafillettebakery.com/",
+   "https://lafillettebakery.com/contact"
+  ]
+ },
+ {
+  "name": "Little Owl Coffee",
+  "city": "Denver, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://littleowlcoffee.com/",
+   "https://littleowlcoffee.com/contact"
+  ]
  }
 ]
