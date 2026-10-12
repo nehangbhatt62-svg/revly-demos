@@ -7455,5 +7455,185 @@
    "https://www.bakesaletoronto.com/",
    "https://www.bakesaletoronto.com/contact"
   ]
+ },
+ {
+  "name": "Flava Coffee",
+  "city": "Dubai, UAE",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://flavacoffee.com/",
+   "https://flavacoffee.com/contact",
+   "https://flavacoffee.com/contact-us"
+  ]
+ },
+ {
+  "name": "Olympia Cafe",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "cafe",
+  "urls": [
+   "https://olympia.co.za/",
+   "https://olympia.co.za/contact",
+   "https://olympia.co.za/contact-us"
+  ]
+ },
+ {
+  "name": "Crack Coffee Roastery",
+  "city": "Dubai, UAE",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://crackroastery.ae/",
+   "https://crackroastery.ae/contact",
+   "https://crackroastery.ae/contact-us"
+  ]
+ },
+ {
+  "name": "Grand Bake",
+  "city": "Abu Dhabi, UAE",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://grandbake.com/",
+   "https://grandbake.com/contact",
+   "https://grandbake.com/contact-us"
+  ]
+ },
+ {
+  "name": "Knead Bakery & Patisserie",
+  "city": "Abu Dhabi, UAE",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://knead.ae/",
+   "https://knead.ae/contact",
+   "https://knead.ae/contact-us"
+  ]
+ },
+ {
+  "name": "Smak",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "cafe",
+  "urls": [
+   "https://smak.co.za/",
+   "https://smak.co.za/contact",
+   "https://smak.co.za/contact-us"
+  ]
+ },
+ {
+  "name": "Al Thabiah Sweets",
+  "city": "Abu Dhabi, UAE",
+  "cc": "AE",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://althabiahsweets.com/",
+   "https://althabiahsweets.com/contact",
+   "https://althabiahsweets.com/contact-us"
+  ]
+ },
+ {
+  "name": "Westham Bakery",
+  "city": "Durban, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://westhambakery.com/",
+   "https://westhambakery.com/contact",
+   "https://westhambakery.com/contact-us"
+  ]
+ },
+ {
+  "name": "ka Mafuri Artisan Bakery",
+  "city": "Pretoria, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://kamafuribakery.co.za/",
+   "https://kamafuribakery.co.za/contact",
+   "https://kamafuribakery.co.za/contact-us"
+  ]
+ },
+ {
+  "name": "The Bread Gypsy",
+  "city": "Pretoria, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://thebreadgypsy.co.za/",
+   "https://thebreadgypsy.co.za/contact",
+   "https://thebreadgypsy.co.za/contact-us"
+  ]
+ },
+ {
+  "name": "The Bread Mill",
+  "city": "Durban, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://thebreadmill.co.za/",
+   "https://thebreadmill.co.za/contact",
+   "https://thebreadmill.co.za/contact-us"
+  ]
+ },
+ {
+  "name": "Backyard Brew Coffee",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://backyardbrewcoffee.co.za/",
+   "https://backyardbrewcoffee.co.za/contact",
+   "https://backyardbrewcoffee.co.za/contact-us"
+  ]
+ },
+ {
+  "name": "Yoli's Artisan Bakery",
+  "city": "Johannesburg, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://yolis.co.za/",
+   "https://yolis.co.za/contact",
+   "https://yolis.co.za/contact-us"
+  ]
+ },
+ {
+  "name": "Wiara Coffee",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://wiaracoffee.co.za/",
+   "https://wiaracoffee.co.za/contact",
+   "https://wiaracoffee.co.za/contact-us"
+  ]
+ },
+ {
+  "name": "Baker Boys",
+  "city": "Durban, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://bakerboys.co.za/",
+   "https://bakerboys.co.za/contact",
+   "https://bakerboys.co.za/contact-us"
+  ]
  }
 ]
