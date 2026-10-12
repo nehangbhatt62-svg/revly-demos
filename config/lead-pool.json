@@ -7279,5 +7279,181 @@
    "https://terriblelove.com/",
    "https://terriblelove.com/contact"
   ]
+ },
+ {
+  "name": "Incognito Coffee",
+  "city": "Vancouver, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://incognitocoffee.ca/",
+   "https://incognitocoffee.ca/contact"
+  ]
+ },
+ {
+  "name": "Bonchaz Bakery Cafe",
+  "city": "Vancouver, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://bonchaz.com/",
+   "https://bonchaz.com/contact"
+  ]
+ },
+ {
+  "name": "Nelson the Seagull",
+  "city": "Vancouver, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "cafe",
+  "urls": [
+   "https://nelsontheseagull.com/",
+   "https://nelsontheseagull.com/contact"
+  ]
+ },
+ {
+  "name": "Small Victory Bakery",
+  "city": "Vancouver, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://smallvictory.ca/",
+   "https://smallvictory.ca/contact"
+  ]
+ },
+ {
+  "name": "Glamorgan Bakery",
+  "city": "Calgary, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://glamorganbakery.com/",
+   "https://glamorganbakery.com/contact"
+  ]
+ },
+ {
+  "name": "Ovaltine Cafe",
+  "city": "Vancouver, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "cafe",
+  "urls": [
+   "https://ovaltinecafe.com/",
+   "https://ovaltinecafe.com/contact"
+  ]
+ },
+ {
+  "name": "Breka Bakery & Cafe",
+  "city": "Vancouver, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://breka.ca/",
+   "https://breka.ca/contact"
+  ]
+ },
+ {
+  "name": "Cafe Bloc",
+  "city": "Montreal, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://cafebloc.com/",
+   "https://cafebloc.com/contact"
+  ]
+ },
+ {
+  "name": "Chocorrant Patisserie & Cafe",
+  "city": "Edmonton, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://chocorrant.com/",
+   "https://chocorrant.com/contact"
+  ]
+ },
+ {
+  "name": "Cafe Le Bruloir",
+  "city": "Montreal, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://lebruloir.com/",
+   "https://lebruloir.com/contact"
+  ]
+ },
+ {
+  "name": "Sanremo Bakery",
+  "city": "Toronto, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://sanremobakery.com/",
+   "https://sanremobakery.com/contact"
+  ]
+ },
+ {
+  "name": "Bon Ton Bakery",
+  "city": "Edmonton, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://bontonbakery.ca/",
+   "https://bontonbakery.ca/contact"
+  ]
+ },
+ {
+  "name": "Butter Bakes",
+  "city": "Calgary, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://butterbakes.ca/",
+   "https://butterbakes.ca/contact"
+  ]
+ },
+ {
+  "name": "C'est Si Bon Patisserie",
+  "city": "Toronto, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://cestsibonpatisserie.ca/",
+   "https://cestsibonpatisserie.ca/contact"
+  ]
+ },
+ {
+  "name": "Rustic Bakery",
+  "city": "Toronto, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://rusticbakery.ca/",
+   "https://rusticbakery.ca/contact"
+  ]
+ },
+ {
+  "name": "Bake Sale Toronto",
+  "city": "Toronto, Canada",
+  "cc": "CA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://www.bakesaletoronto.com/",
+   "https://www.bakesaletoronto.com/contact"
+  ]
  }
 ]
