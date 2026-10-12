@@ -6872,5 +6872,412 @@
    "https://littleowlcoffee.com/",
    "https://littleowlcoffee.com/contact"
   ]
+ },
+ {
+  "name": "Hearts & Flour Bakery & Cafe",
+  "city": "Chicago, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "cafe",
+  "urls": [
+   "https://www.misericordia.com/",
+   "https://www.misericordia.com/contact"
+  ]
+ },
+ {
+  "name": "Ace Bakery",
+  "city": "Chicago, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://acebakeryreviews.com/",
+   "https://acebakeryreviews.com/contact"
+  ]
+ },
+ {
+  "name": "The Goddess & Grocer",
+  "city": "Chicago, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "cafe",
+  "urls": [
+   "https://goddessandgrocer.com/",
+   "https://goddessandgrocer.com/contact"
+  ]
+ },
+ {
+  "name": "Au Levain Chicago",
+  "city": "Chicago, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.aulevainchicago.com/",
+   "https://www.aulevainchicago.com/contact"
+  ]
+ },
+ {
+  "name": "Bartleby's Homemade Ice Cream",
+  "city": "Chicago, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.bartlebysicecream.com/",
+   "https://www.bartlebysicecream.com/contact"
+  ]
+ },
+ {
+  "name": "Jezabel's Argentine Cafe",
+  "city": "Philadelphia, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "cafe",
+  "urls": [
+   "https://www.jezabels.com/",
+   "https://www.jezabels.com/contact"
+  ]
+ },
+ {
+  "name": "Eggcellent Cafe",
+  "city": "Philadelphia, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "cafe",
+  "urls": [
+   "https://www.eggcellentphilly.com/",
+   "https://www.eggcellentphilly.com/contact"
+  ]
+ },
+ {
+  "name": "Out West Coffee",
+  "city": "Philadelphia, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://outwestcoffee.com/",
+   "https://outwestcoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Em's Ice Cream",
+  "city": "Denver, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://www.emsicecream.com/",
+   "https://www.emsicecream.com/contact"
+  ]
+ },
+ {
+  "name": "Hip Hop Ice Cream Shop",
+  "city": "Denver, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://denverschillest.com/",
+   "https://denverschillest.com/contact"
+  ]
+ },
+ {
+  "name": "Southmoor Bread Co",
+  "city": "Denver, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.southmoorbread.com/",
+   "https://www.southmoorbread.com/contact"
+  ]
+ },
+ {
+  "name": "Rebel Bread",
+  "city": "Denver, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://rebelbread.com/",
+   "https://rebelbread.com/contact"
+  ]
+ },
+ {
+  "name": "Detour Bakery",
+  "city": "Denver, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://detourbakery.com/",
+   "https://detourbakery.com/contact"
+  ]
+ },
+ {
+  "name": "E+V Sweet Art",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.evsweetart.com/",
+   "https://www.evsweetart.com/contact"
+  ]
+ },
+ {
+  "name": "Lucky Bakery",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "http://lucky-bakery.com/",
+   "http://lucky-bakery.com/contact"
+  ]
+ },
+ {
+  "name": "Brentwood Social House",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "cafe",
+  "urls": [
+   "https://brentwoodsocial.com/",
+   "https://brentwoodsocial.com/contact"
+  ]
+ },
+ {
+  "name": "Praxis Coffee Roasters",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://praxiscoffee.com/",
+   "https://praxiscoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Courier Coffee",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "http://www.couriercoffeeroasters.com/",
+   "http://www.couriercoffeeroasters.com/contact"
+  ]
+ },
+ {
+  "name": "Wallflower Coffee Company",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://wallflowercoffeeco.com/",
+   "https://wallflowercoffeeco.com/contact"
+  ]
+ },
+ {
+  "name": "The Dragonfly Coffee House",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://dragonflycoffeehouse.com/",
+   "https://dragonflycoffeehouse.com/contact"
+  ]
+ },
+ {
+  "name": "The Cupcake Gypsies",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "http://www.thecupcakegypsies.com/",
+   "http://www.thecupcakegypsies.com/contact"
+  ]
+ },
+ {
+  "name": "Firehouse Coffee",
+  "city": "Seattle, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "http://www.ballardfirehousecoffee.com/",
+   "http://www.ballardfirehousecoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Cafe Hagen",
+  "city": "Seattle, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "cafe",
+  "urls": [
+   "https://www.cafehagen.com/",
+   "https://www.cafehagen.com/contact"
+  ]
+ },
+ {
+  "name": "Byen Bakeri",
+  "city": "Seattle, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://byenbakeri.com/",
+   "https://byenbakeri.com/contact"
+  ]
+ },
+ {
+  "name": "Bells Pastries",
+  "city": "Seattle, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://bellspastries.com/",
+   "https://bellspastries.com/contact"
+  ]
+ },
+ {
+  "name": "Farina Bakery",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://farinabakery.com/",
+   "https://farinabakery.com/contact"
+  ]
+ },
+ {
+  "name": "Sugar Blooms Bakery",
+  "city": "Portland, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://sugarbloomsbakery.com/",
+   "https://sugarbloomsbakery.com/contact"
+  ]
+ },
+ {
+  "name": "Macrina Bakery",
+  "city": "Seattle, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://macrinabakery.com/",
+   "https://macrinabakery.com/contact"
+  ]
+ },
+ {
+  "name": "Columbia City Bakery",
+  "city": "Seattle, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://columbiacitybakery.com/",
+   "https://columbiacitybakery.com/contact"
+  ]
+ },
+ {
+  "name": "Fainting Goat Gelato",
+  "city": "Seattle, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://faintinggoatgelato.com/",
+   "https://faintinggoatgelato.com/contact"
+  ]
+ },
+ {
+  "name": "Indigo Cow",
+  "city": "Seattle, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://indigocow.com/",
+   "https://indigocow.com/contact"
+  ]
+ },
+ {
+  "name": "Camellia Coffee House",
+  "city": "Philadelphia, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.camelliacoffeehouse.com/",
+   "https://www.camelliacoffeehouse.com/contact"
+  ]
+ },
+ {
+  "name": "Nilaa Coffee",
+  "city": "Philadelphia, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://nilaacoffee.com/",
+   "https://nilaacoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Vibrant Coffee Roasters",
+  "city": "Philadelphia, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://vibrantcoffeeroasters.com/",
+   "https://vibrantcoffeeroasters.com/contact"
+  ]
+ },
+ {
+  "name": "High Point Creamery",
+  "city": "Denver, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "ice_cream_parlour",
+  "urls": [
+   "https://highpointcreamery.com/",
+   "https://highpointcreamery.com/contact"
+  ]
+ },
+ {
+  "name": "Flora Coffee",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://floracoffeeaustin.com/",
+   "https://floracoffeeaustin.com/contact"
+  ]
+ },
+ {
+  "name": "Terrible Love Coffee",
+  "city": "Austin, USA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://terriblelove.com/",
+   "https://terriblelove.com/contact"
+  ]
  }
 ]
