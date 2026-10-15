@@ -7637,17 +7637,6 @@
   ]
  },
  {
-  "name": "Cedar Coffee Roasters",
-  "city": "Cape Town, South Africa",
-  "cc": "ZA",
-  "region": "intl",
-  "niche": "coffee_shop",
-  "urls": [
-   "https://cedarcoffeeroasters.com/",
-   "https://cedarcoffeeroasters.com/contact"
-  ]
- },
- {
   "name": "Cafe Mira",
   "city": "Durban, South Africa",
   "cc": "ZA",
@@ -7656,17 +7645,6 @@
   "urls": [
    "https://cafemira.co.za/",
    "https://cafemira.co.za/contact"
-  ]
- },
- {
-  "name": "Bootleggers Coffee Roasters",
-  "city": "Cape Town, South Africa",
-  "cc": "ZA",
-  "region": "intl",
-  "niche": "coffee_shop",
-  "urls": [
-   "https://bootleggerscoffee.com/",
-   "https://bootleggerscoffee.com/contact"
   ]
  },
  {
