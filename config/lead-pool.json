@@ -7679,5 +7679,27 @@
    "https://twolittleloafs.co.za/",
    "https://twolittleloafs.co.za/contact"
   ]
+ },
+ {
+  "name": "Sprout Artisan Bakery",
+  "city": "Melbourne, Australia",
+  "cc": "AU",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://sproutartisanbakery.com.au/",
+   "https://sproutartisanbakery.com.au/contact"
+  ]
+ },
+ {
+  "name": "Baking Dough Bakery",
+  "city": "Shepparton, Australia",
+  "cc": "AU",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://bakingdough.com.au/",
+   "https://bakingdough.com.au/contact"
+  ]
  }
 ]
