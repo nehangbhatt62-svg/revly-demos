@@ -7635,5 +7635,71 @@
    "https://bakerboys.co.za/contact",
    "https://bakerboys.co.za/contact-us"
   ]
+ },
+ {
+  "name": "Cedar Coffee Roasters",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://cedarcoffeeroasters.com/",
+   "https://cedarcoffeeroasters.com/contact"
+  ]
+ },
+ {
+  "name": "Cafe Mira",
+  "city": "Durban, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "cafe",
+  "urls": [
+   "https://cafemira.co.za/",
+   "https://cafemira.co.za/contact"
+  ]
+ },
+ {
+  "name": "Bootleggers Coffee Roasters",
+  "city": "Cape Town, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://bootleggerscoffee.com/",
+   "https://bootleggerscoffee.com/contact"
+  ]
+ },
+ {
+  "name": "180 Degrees Catering & Confectionery",
+  "city": "Durban, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://180degrees.co.za/",
+   "https://180degrees.co.za/contact"
+  ]
+ },
+ {
+  "name": "Miss Cake",
+  "city": "Johannesburg, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "bakery",
+  "urls": [
+   "https://misscake.co.za/",
+   "https://misscake.co.za/contact"
+  ]
+ },
+ {
+  "name": "Two Little Loafs Patisserie",
+  "city": "Johannesburg, South Africa",
+  "cc": "ZA",
+  "region": "intl",
+  "niche": "dessert_shop",
+  "urls": [
+   "https://twolittleloafs.co.za/",
+   "https://twolittleloafs.co.za/contact"
+  ]
  }
 ]
