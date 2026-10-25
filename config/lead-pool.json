@@ -8064,5 +8064,71 @@
       "https://www.thesmokaccia.com/",
       "https://www.thesmokaccia.com/copy-of-the-smokaccia-menu-1"
     ]
+  },
+  {
+    "name": "Gaa Restaurant",
+    "city": "Bangkok",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.facebook.com/gaabangkok/",
+      "https://www.worldofmouth.app/restaurants/gaa"
+    ]
+  },
+  {
+    "name": "Saawaan",
+    "city": "Bangkok",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.saawaan.com/",
+      "https://www.saawaan.com/contact"
+    ]
+  },
+  {
+    "name": "Chim by Siam Wisdom",
+    "city": "Bangkok",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.chimbysiamwisdombkk.com/",
+      "https://www.facebook.com/Chimbysiamwisdom/"
+    ]
+  },
+  {
+    "name": "Jampa Restaurant",
+    "city": "Phuket",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "https://jamparestaurant.com/",
+      "https://jamparestaurant.com/contact-us/"
+    ]
+  },
+  {
+    "name": "Suay Cherngtalay",
+    "city": "Phuket",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.suayrestaurant.com/",
+      "https://www.instagram.com/p/DUnDH7pAlwe/"
+    ]
+  },
+  {
+    "name": "Raya Restaurant",
+    "city": "Phuket",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.rayarestaurant.net/",
+      "https://autoreserve.com/en/restaurants/8JaNtD9SGLM8znXEGbsJ"
+    ]
   }
 ]
