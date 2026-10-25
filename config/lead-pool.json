@@ -7899,5 +7899,170 @@
       "https://keongsaikbakery.com/",
       "https://keongsaikbakery.com/pages/contact"
     ]
+  },
+  {
+    "name": "Potong",
+    "city": "Bangkok",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.restaurantpotong.com/",
+      "https://www.restaurantpotong.com/reservation"
+    ]
+  },
+  {
+    "name": "Le Du",
+    "city": "Bangkok",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.ledubkk.com/",
+      "https://www.ledubkk.com/reservation"
+    ]
+  },
+  {
+    "name": "Nusara",
+    "city": "Bangkok",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.nusarabkk.com/",
+      "https://www.nusarabkk.com/reservation"
+    ]
+  },
+  {
+    "name": "White Flower Factory",
+    "city": "Bangkok",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "cafe",
+    "urls": [
+      "https://whiteflowerbkk.net/en/",
+      "https://whiteflowerbkk.net/en/thai-food/"
+    ]
+  },
+  {
+    "name": "Landhaus Bakery",
+    "city": "Bangkok",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "bakery",
+    "urls": [
+      "https://landhaus-bakery-bangkok.com/store/",
+      "https://www.facebook.com/Landhausbakeryari/"
+    ]
+  },
+  {
+    "name": "Baan Khanitha",
+    "city": "Bangkok",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.baan-khanitha.com/",
+      "https://www.baan-khanitha.com/venues_history"
+    ]
+  },
+  {
+    "name": "The Local by Oamthong",
+    "city": "Bangkok",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "http://www.thelocalthaicuisine.com/",
+      "https://www.facebook.com/thelocalcuisine/"
+    ]
+  },
+  {
+    "name": "Rongros",
+    "city": "Bangkok",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.facebook.com/rongrosbkk/",
+      "https://linktr.ee/RONGROS_bkk"
+    ]
+  },
+  {
+    "name": "80/20",
+    "city": "Bangkok",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.instagram.com/8020bkk/",
+      "https://www.facebook.com/8020bkk/"
+    ]
+  },
+  {
+    "name": "Cheevit Cheeva",
+    "city": "Chiang Mai",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "dessert_shop",
+    "urls": [
+      "https://cheevitcheevacafe.com/",
+      "https://www.facebook.com/cheevitcheevacafe/"
+    ]
+  },
+  {
+    "name": "Fahtara Coffee",
+    "city": "Chiang Mai",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://www.fahtara.coffee/",
+      "https://www.facebook.com/fahtaracoffee/"
+    ]
+  },
+  {
+    "name": "Ristr8to Coffee",
+    "city": "Chiang Mai",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://www.instagram.com/ristr8to/",
+      "https://www.facebook.com/Ristr8to/"
+    ]
+  },
+  {
+    "name": "Thaan Aoan",
+    "city": "Chiang Mai",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "cafe",
+    "urls": [
+      "https://www.cafedethaanaoan.com/",
+      "https://www.cafedethaanaoan.com/our-menu/"
+    ]
+  },
+  {
+    "name": "Caramellow Cafe",
+    "city": "Chiang Mai",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "dessert_shop",
+    "urls": [
+      "https://www.instagram.com/caramellow.cafe/",
+      "https://www.facebook.com/caramellow.cafe/"
+    ]
+  },
+  {
+    "name": "The Smokaccia Laboratory",
+    "city": "Phuket",
+    "cc": "TH",
+    "region": "apac",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.thesmokaccia.com/",
+      "https://www.thesmokaccia.com/copy-of-the-smokaccia-menu-1"
+    ]
   }
 ]
