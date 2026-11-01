@@ -8342,5 +8342,131 @@
   "urls": [
    "https://www.plainvanilla.com.sg/"
   ]
+ },
+ {
+  "name": "RISE COFFEE",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "apac",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://rise.coffee/",
+   "https://rise.coffee/contact"
+  ]
+ },
+ {
+  "name": "Cafe La Burie",
+  "city": "Chiang Mai",
+  "cc": "TH",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://www.burigallery.com/laburiehotel"
+  ]
+ },
+ {
+  "name": "The Baristro",
+  "city": "Chiang Mai",
+  "cc": "TH",
+  "region": "apac",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://thebaristro.co.th/",
+   "https://thebaristro.co.th/contact"
+  ]
+ },
+ {
+  "name": "Woo Cafe and Art Gallery",
+  "city": "Chiang Mai",
+  "cc": "TH",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://woochiangmai.com/",
+   "https://woochiangmai.com/contact"
+  ]
+ },
+ {
+  "name": "Somtum Der",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "apac",
+  "niche": "restaurant",
+  "urls": [
+   "https://somtumder.com/",
+   "https://somtumder.com/contact"
+  ]
+ },
+ {
+  "name": "Err Urban Rustic Thai",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "apac",
+  "niche": "restaurant",
+  "urls": [
+   "https://errbkk.com/"
+  ]
+ },
+ {
+  "name": "Bo.lan",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "apac",
+  "niche": "restaurant",
+  "urls": [
+   "https://bolan.co.th/",
+   "https://bolan.co.th/contact"
+  ]
+ },
+ {
+  "name": "Issaya Siamese Club",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "apac",
+  "niche": "restaurant",
+  "urls": [
+   "https://issaya.com/",
+   "https://issaya.com/contact"
+  ]
+ },
+ {
+  "name": "Ginger Farm Kitchen",
+  "city": "Chiang Mai",
+  "cc": "TH",
+  "region": "apac",
+  "niche": "restaurant",
+  "urls": [
+   "https://gingerfarmkitchen.com/"
+  ]
+ },
+ {
+  "name": "Karmakamet Diner",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://www.karmakamet.com/"
+  ]
+ },
+ {
+  "name": "Agalico",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://www.agalico.com/"
+  ]
+ },
+ {
+  "name": "Organika House",
+  "city": "Bangkok",
+  "cc": "TH",
+  "region": "apac",
+  "niche": "cafe",
+  "urls": [
+   "https://organikahouse.com/"
+  ]
  }
 ]
