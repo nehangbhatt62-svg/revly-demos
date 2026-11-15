@@ -9165,5 +9165,170 @@
    "https://spoutcoffee.co.za/",
    "https://spoutcoffee.co.za/contact"
   ]
+ },
+ {
+  "name": "SEY Coffee",
+  "city": "Brooklyn, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://sey.coffee/",
+   "https://sey.coffee/pages/contact"
+  ]
+ },
+ {
+  "name": "Parlor Coffee",
+  "city": "Brooklyn, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://parlorcoffee.com/",
+   "https://parlorcoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Beanmonger Coffee",
+  "city": "Brooklyn, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://beanmongercoffee.com/",
+   "https://beanmongercoffee.com/"
+  ]
+ },
+ {
+  "name": "Olas Coffee Company",
+  "city": "Brooklyn, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.olascoffeeco.com/",
+   "https://www.olascoffeeco.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Bakers Bench",
+  "city": "Los Angeles, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://bakersbenchla.com/",
+   "https://bakersbenchla.com/about"
+  ]
+ },
+ {
+  "name": "Larder Baking Company",
+  "city": "Los Angeles, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.larderbakingco.com/",
+   "https://www.larderbakingco.com/contact"
+  ]
+ },
+ {
+  "name": "Good Ambler",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.goodambler.com/",
+   "https://www.goodambler.com/visit"
+  ]
+ },
+ {
+  "name": "Floriole Cafe & Bakery",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://floriole.com/",
+   "https://floriole.com/about"
+  ]
+ },
+ {
+  "name": "Loaf Lounge",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "cafe",
+  "urls": [
+   "https://www.loafloungechicago.com/",
+   "https://www.loafloungechicago.com/"
+  ]
+ },
+ {
+  "name": "Rise Coffee & Bakery",
+  "city": "Austin, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.risecoffeebakery.com/",
+   "https://www.risecoffeebakery.com/contactus"
+  ]
+ },
+ {
+  "name": "Le Panier",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.lepanier.com/",
+   "https://www.lepanier.com/contact"
+  ]
+ },
+ {
+  "name": "Coyle's Bakeshop",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://coylesbakeshop.com/",
+   "https://coylesbakeshop.com/visit-the-shop"
+  ]
+ },
+ {
+  "name": "Wild Rye Bakery",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.wildryebakery.com/",
+   "https://www.wildryebakery.com/contact"
+  ]
+ },
+ {
+  "name": "Huckleberry Roasters",
+  "city": "Denver, CO",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://huckleberryroasters.com/",
+   "https://huckleberryroasters.com/contact"
+  ]
+ },
+ {
+  "name": "Bakery Four",
+  "city": "Denver, CO",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.bakeryfour.com/",
+   "https://www.bakeryfour.com/contact"
+  ]
  }
 ]
