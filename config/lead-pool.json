@@ -9330,5 +9330,170 @@
    "https://www.bakeryfour.com/",
    "https://www.bakeryfour.com/contact"
   ]
+ },
+ {
+  "name": "Brooklyn Roasting Company",
+  "city": "New York, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_roaster",
+  "urls": [
+   "https://brooklynroasting.com/",
+   "https://brooklynroasting.com/contact"
+  ]
+ },
+ {
+  "name": "Obscure Coffee Roasters",
+  "city": "New York, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_roaster",
+  "urls": [
+   "https://www.obscure.coffee/",
+   "https://www.obscure.coffee/contact-us"
+  ]
+ },
+ {
+  "name": "Compilation Coffee Roasters",
+  "city": "New York, NY",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_roaster",
+  "urls": [
+   "https://shop.compilationcoffee.com/",
+   "https://shop.compilationcoffee.com/"
+  ]
+ },
+ {
+  "name": "Lab Coffee & Roasters",
+  "city": "Los Angeles, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_roaster",
+  "urls": [
+   "https://www.labcoffee.com/",
+   "https://www.labcoffee.com/"
+  ]
+ },
+ {
+  "name": "Virtu Coffee",
+  "city": "Los Angeles, CA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://virtucoffee.com/",
+   "https://virtucoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Bad Butter",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://badbutterchicago.com/",
+   "https://badbutterchicago.com/"
+  ]
+ },
+ {
+  "name": "Magnifico Coffee Roasters",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_roaster",
+  "urls": [
+   "https://www.magnificocoffee.com/",
+   "https://www.magnificocoffee.com/pages/contact"
+  ]
+ },
+ {
+  "name": "The Brewed",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://www.thebrewedcoffee.com/",
+   "https://www.thebrewedcoffee.com/contact"
+  ]
+ },
+ {
+  "name": "Anticonquista Cafe",
+  "city": "Chicago, IL",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_roaster",
+  "urls": [
+   "https://www.anticonquistacafe.com/",
+   "https://www.anticonquistacafe.com/contact"
+  ]
+ },
+ {
+  "name": "Violette Bakehouse",
+  "city": "Austin, TX",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.violettebh.com/",
+   "https://www.violettebh.com/contact"
+  ]
+ },
+ {
+  "name": "Zanarkand Coffee Roasters",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_roaster",
+  "urls": [
+   "https://www.zanarkandcoffeeroasters.com/",
+   "https://www.zanarkandcoffeeroasters.com/contact"
+  ]
+ },
+ {
+  "name": "Milstead & Co",
+  "city": "Seattle, WA",
+  "cc": "US",
+  "region": "us",
+  "niche": "coffee_shop",
+  "urls": [
+   "https://milsteadandco.com/",
+   "https://milsteadandco.com/"
+  ]
+ },
+ {
+  "name": "Barclay's Bakery",
+  "city": "Denver, CO",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://www.barclaysbakery.com/",
+   "https://www.barclaysbakery.com/contact"
+  ]
+ },
+ {
+  "name": "The Cake Bar",
+  "city": "Denver, CO",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://thecakebardenver.com/",
+   "https://thecakebardenver.com/"
+  ]
+ },
+ {
+  "name": "Istanbul Cafe and Bakery",
+  "city": "Denver, CO",
+  "cc": "US",
+  "region": "us",
+  "niche": "bakery",
+  "urls": [
+   "https://istanbulcafebakery.com/",
+   "https://istanbulcafebakery.com/contact"
+  ]
  }
 ]
