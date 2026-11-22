@@ -9660,5 +9660,170 @@
       "https://rockydessert.shop/",
       "https://rockydessert.shop/pages/contact"
     ]
+  },
+  {
+    "name": "The Wood Roaster",
+    "city": "Sydney, NSW",
+    "cc": "AU",
+    "region": "au",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://www.thewoodroaster.com/",
+      "https://www.thewoodroaster.com/"
+    ]
+  },
+  {
+    "name": "Stitch Coffee",
+    "city": "Sydney, NSW",
+    "cc": "AU",
+    "region": "au",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://stitch.coffee/",
+      "https://stitch.coffee/contact-us"
+    ]
+  },
+  {
+    "name": "Suspension Coffee",
+    "city": "Sydney, NSW",
+    "cc": "AU",
+    "region": "au",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://suspensioncoffee.com.au/",
+      "https://suspensioncoffee.com.au/"
+    ]
+  },
+  {
+    "name": "Roastville Coffee Roasters",
+    "city": "Sydney, NSW",
+    "cc": "AU",
+    "region": "au",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://www.roastville.com.au/",
+      "https://www.roastville.com.au/"
+    ]
+  },
+  {
+    "name": "Zest Specialty Coffee Roasters",
+    "city": "Sydney, NSW",
+    "cc": "AU",
+    "region": "au",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://www.zestcoffee.com.au/",
+      "https://www.zestcoffee.com.au/contact"
+    ]
+  },
+  {
+    "name": "ACOFFEE",
+    "city": "Melbourne, VIC",
+    "cc": "AU",
+    "region": "au",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://www.acoffee.com.au/",
+      "https://www.acoffee.com.au/pages/contact"
+    ]
+  },
+  {
+    "name": "Quists Coffee",
+    "city": "Melbourne, VIC",
+    "cc": "AU",
+    "region": "au",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://www.quistscoffee.com.au/",
+      "https://www.quistscoffee.com.au/"
+    ]
+  },
+  {
+    "name": "Bakemono Bakers",
+    "city": "Melbourne, VIC",
+    "cc": "AU",
+    "region": "au",
+    "niche": "bakery",
+    "urls": [
+      "https://bakemonobakers.com.au/",
+      "https://bakemonobakers.com.au/"
+    ]
+  },
+  {
+    "name": "Rustica Sourdough",
+    "city": "Melbourne, VIC",
+    "cc": "AU",
+    "region": "au",
+    "niche": "bakery",
+    "urls": [
+      "https://rusticasourdough.com.au/",
+      "https://rusticasourdough.com.au/"
+    ]
+  },
+  {
+    "name": "Cafetal Coffee Roasters",
+    "city": "Brisbane, QLD",
+    "cc": "AU",
+    "region": "au",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://cafetalroasters.com.au/",
+      "https://cafetalroasters.com.au/"
+    ]
+  },
+  {
+    "name": "Coffee Mentality",
+    "city": "Brisbane, QLD",
+    "cc": "AU",
+    "region": "au",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://coffeementality.com.au/",
+      "https://coffeementality.com.au/contact"
+    ]
+  },
+  {
+    "name": "Cordelia Sourdough Bakehouse",
+    "city": "Brisbane, QLD",
+    "cc": "AU",
+    "region": "au",
+    "niche": "bakery",
+    "urls": [
+      "https://www.cordeliasourdoughbakehouse.com.au/",
+      "https://www.cordeliasourdoughbakehouse.com.au/contact"
+    ]
+  },
+  {
+    "name": "Cafe Pastel",
+    "city": "Perth, WA",
+    "cc": "AU",
+    "region": "au",
+    "niche": "bakery",
+    "urls": [
+      "https://www.cafe-pastel.com.au/",
+      "https://www.cafe-pastel.com.au/"
+    ]
+  },
+  {
+    "name": "French Resistance Northbridge",
+    "city": "Perth, WA",
+    "cc": "AU",
+    "region": "au",
+    "niche": "bakery",
+    "urls": [
+      "https://www.frenchresistancenorthbridge.com/",
+      "https://www.frenchresistancenorthbridge.com/"
+    ]
+  },
+  {
+    "name": "Modus Coffee",
+    "city": "Perth, WA",
+    "cc": "AU",
+    "region": "au",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://modus.coffee/",
+      "https://modus.coffee/"
+    ]
   }
 ]
