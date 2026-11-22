@@ -9990,5 +9990,170 @@
       "https://bisou.metafoodiesgroup.com/",
       "https://bisou.metafoodiesgroup.com/contact"
     ]
+  },
+  {
+    "name": "Rosetta Roastery Cafe",
+    "city": "Cape Town",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://www.rosettaroastery.com/",
+      "https://www.rosettaroastery.com/pages/contact"
+    ]
+  },
+  {
+    "name": "Mulino",
+    "city": "Cape Town",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "restaurant",
+    "urls": [
+      "https://mulino.co.za/",
+      "https://mulino.co.za/contact-us"
+    ]
+  },
+  {
+    "name": "Ground Art Caffe",
+    "city": "Cape Town",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://www.groundartcaffe.co.za/",
+      "https://www.groundartcaffe.co.za/contact"
+    ]
+  },
+  {
+    "name": "Swan Cafe",
+    "city": "Cape Town",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "restaurant",
+    "urls": [
+      "https://swancafe.co.za/",
+      "https://swancafe.co.za/menu/"
+    ]
+  },
+  {
+    "name": "Our Local Kloof Street",
+    "city": "Cape Town",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.ourlocal.co.za/",
+      "https://www.ourlocal.co.za/home"
+    ]
+  },
+  {
+    "name": "Florentin",
+    "city": "Cape Town",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "restaurant",
+    "urls": [
+      "https://florentin.co.za/",
+      "https://florentin.co.za/about-2"
+    ]
+  },
+  {
+    "name": "Urban Grind Roasters",
+    "city": "Johannesburg",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://urbangrindroasters.com/",
+      "https://urbangrindroasters.com/"
+    ]
+  },
+  {
+    "name": "Fingers Crossed Coffee Shop",
+    "city": "Johannesburg",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://www.fingerscrossed.coffee/",
+      "https://fingerscrossed.coffee/contact"
+    ]
+  },
+  {
+    "name": "4th Avenue Coffee Roasters",
+    "city": "Johannesburg",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://www.4thavenuecoffee.co.za/",
+      "https://www.4thavenuecoffee.co.za/contact"
+    ]
+  },
+  {
+    "name": "The Station Parkhurst",
+    "city": "Johannesburg",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "restaurant",
+    "urls": [
+      "https://thestation.joburg/",
+      "https://thestation.joburg/menu"
+    ]
+  },
+  {
+    "name": "Boston Brew Coffee Shop",
+    "city": "Durban",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://www.bostonbrewcoffee.com/",
+      "https://www.bostonbrewcoffee.com/find-us"
+    ]
+  },
+  {
+    "name": "Colombo Coffee & Tea",
+    "city": "Durban",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://colombo.coffee/",
+      "https://colombo.coffee/contact/"
+    ]
+  },
+  {
+    "name": "Seam Coffee",
+    "city": "Stellenbosch",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "coffee_shop",
+    "urls": [
+      "https://seam.coffee/",
+      "https://seam.coffee/pages/contact-us"
+    ]
+  },
+  {
+    "name": "De Vier Restaurant",
+    "city": "Stellenbosch",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.devier.co.za/",
+      "https://www.devier.co.za/bookings"
+    ]
+  },
+  {
+    "name": "Terra Restaurant",
+    "city": "Stellenbosch",
+    "cc": "ZA",
+    "region": "mea",
+    "niche": "restaurant",
+    "urls": [
+      "https://www.terrarestaurant.co.za/",
+      "https://terrarestaurant.co.za/"
+    ]
   }
 ]
